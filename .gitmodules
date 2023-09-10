@@ -1,0 +1,6 @@
+[submodule "images"]
+	path = images
+	url = ../static-site-images
+[submodule "extra-content"]
+	path = extra-content
+	url = ../extra-site-content

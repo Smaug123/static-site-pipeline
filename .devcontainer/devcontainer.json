@@ -1,0 +1,7 @@
+{
+  "build": { "dockerfile": "Dockerfile" },
+  "extensions": ["james-yu.latex-workshop", "vscodevim.vim", "timonwong.shellcheck"],
+  "settings": {
+
+  }
+}
