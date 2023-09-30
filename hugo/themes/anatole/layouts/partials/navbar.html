@@ -1,0 +1,25 @@
+<div class="page-top animated fadeInDown">
+    <div class="theme-switch-item">
+        <button class="theme-switch" title="Switch Theme">
+            <i>Lighting</i>
+        </button>
+    </div>
+    <input type="checkbox" class="navbar-toggle" tabindex="0" id="navbar-toggle-cbox" />
+    <label class="navbar-toggle" for="navbar-toggle-cbox"><span>Toggle navigation menu</span></label>
+    <ul class="nav">
+        <label for="navbar-toggle-cbox" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar-toggle-cbox">
+            &nbsp;
+        </label>
+        {{ $url := .RelPermalink }}
+        {{ range .Site.Menus.main }}
+            {{ $active := eq $url .URL }}
+            <li><a {{if $active }}class="current"{{end}}
+                href="{{ .URL }}"
+                        {{ if strings.HasPrefix .URL "http" }}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        {{ end }}
+                title="{{ .Title }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+</div>

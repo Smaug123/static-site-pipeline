@@ -1,0 +1,42 @@
+{{ define "main" }}
+    <div class="post animated fadeInDown">
+        <div class="post-content">
+
+            <div class="post-title">
+                <h3>{{ .Title }}</h3>
+                {{ if eq .Type "post"}}
+                    <div class="info">
+                        <em class="fas fa-calendar-day"></em>
+                        <span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+                        <em class="fas fa-stopwatch"></em>
+                        <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>
+                    </div>
+                {{ end }}
+            </div>
+
+            {{ .Content }}
+        </div>
+        <div class="post-footer">
+            <div class="info">
+                {{ if not .PublishDate.IsZero }} Published: <span class="date"> {{ .PublishDate.Format "2006-01-02" }}</span><br /> {{end}}
+                {{ if not .Lastmod.IsZero }} Last modified: <span class="date"> {{ .Lastmod.Format "2006-01-02 15:04" }}</span><br /> {{end}}
+                {{ .WordCount }} words<br />
+                {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+                {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+            </div>
+            <div class="feedback-link">
+                <a href=https://docs.google.com/forms/d/e/1FAIpQLSfBIFO50asRr6QmzRzCmtiRBXrImIraOnHuum9I798pSW_pjA/viewform>Submit anonymous feedback</a>
+            </div>
+        </div>
+
+        {{ if eq .Type "post"}}
+            {{ if .Site.DisqusShortname -}}
+                <div id="fb_comments_container">
+                    <h2>{{ i18n "comments" }}</h2>
+                    {{ template "_internal/disqus.html" . }}
+                </div>
+            {{- end }}
+        {{ end }}
+    </div>
+
+{{ end }}

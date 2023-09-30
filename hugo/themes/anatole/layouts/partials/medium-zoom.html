@@ -1,0 +1,5 @@
+{{ $js := resources.Get "js/medium-zoom.js" }}
+{{ $secureJS := $js |  resources.Minify | resources.Fingerprint }}
+<script src="{{ $secureJS.Permalink }}"
+        integrity="{{ $secureJS.Data.Integrity }}"
+        crossorigin="anonymous"></script>

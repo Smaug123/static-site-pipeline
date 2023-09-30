@@ -1,0 +1,17 @@
+{{- if (isset .Params "gallery") -}}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+            integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT"
+            crossorigin="anonymous"></script>
+    {{- $url := "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js" -}}
+    {{- $hash := "sha384-fPPwDm9Mfp/tF9MgxjA4B33PPUlNmlXdP3oKSJgdAywm+cfAEYllAIRl/D3SBlpc" -}}
+    <script defer
+            src="{{- $url -}}"
+            integrity="{{- $hash -}}"
+            crossorigin="anonymous"></script>
+    {{- $url := "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css" -}}
+    {{- $hash := "sha384-Ewh0nI9dXkThksh2nOTHmr8wAk5UlhiE2FiGSuZSnYkQ/G1W5wPuXGBnXodqD8GC" -}}
+    <link rel="stylesheet"
+          href="{{- $url -}}"
+          integrity="{{- $hash -}}"
+          crossorigin="anonymous" />
+{{- end -}}

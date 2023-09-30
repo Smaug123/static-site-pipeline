@@ -1,0 +1,62 @@
+span .sidenote {
+    display: inline;
+}
+
+.sidenote:hover .sidenote-label {
+    background-color: #36e281;
+    color:#fff
+}
+
+.sidenote:hover .sidenote-content {
+    border: .2rem dashed;
+    padding: .875rem;
+    border-color:#36e281
+}
+
+.sidenote-label {
+    border-bottom:.2rem dashed #36e281
+}
+
+.sidenote-checkbox {
+    display:none
+}
+
+.sidenote-content {
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    border: .075rem solid #bfbfbf;
+    border-radius: .2rem;
+    margin-top: -1.5rem;
+    padding: 1rem;
+    text-align:left
+}
+
+.sidenote-content.sidenote-right {
+    right: 0;
+    width: 16%;
+}
+
+@media screen and (max-width: 78.5rem) {
+    .sidenote-content.sidenote-right {
+        display:none
+    }
+}
+
+.sidenote-delimiter {
+    display:none
+}
+
+@media screen and (max-width: 78.5rem) {
+    .sidenote-content.sidenote-right {
+        position: static;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        width: 100%;
+        margin-right:0
+    }
+
+    .sidenote-checkbox:checked ~ .sidenote-content.sidenote-right {
+        display: block
+    }
+}

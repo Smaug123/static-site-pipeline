@@ -1,0 +1,53 @@
+---
+lastmod: "2021-09-12T22:47:44.0000000+01:00"
+author: patrick
+categories:
+- uncategorized
+comments: true
+date: "2014-01-12T00:00:00Z"
+aliases:
+- /uncategorized/denouement-of-myst-iii-exile/
+- /denouement-of-myst-iii-exile/
+title: 'Denouement of Myst III: Exile'
+---
+A long time ago, in a galaxy far far away, I completed [Myst III: Exile][1]. It's a stupendously good puzzle game. For some reason, it popped into my mind again a couple of days ago. This post contains very hefty spoilers for that game (it will completely ruin the ending - I will be discussing information-exchange protocols which are key to completing it), so if you're ever going to play it, don't read this post yet. It's a brilliant game - I highly recommend it.
+
+The spoilers start here. Weak spoilers are first, so that you have time to stop reading if your eyes are accidentally moving downwards. After those weak spoilers will come a discussion of the final puzzle of the game. If you're familiar with the general Myst universe, skip the next two paragraphs; start at the sentence "Proper spoilers start here".
+
+The series of Myst games revolves around the concept of a *Linking Book*, a means of moving from world to world (these worlds are called "Ages") by touching the front page of certain books. Each book is a link to its ultimate *Descriptive Book*, which was at some point written by a Writer, and which describes an Age in such detail that the Age actually comes to exist. The act of touching the front page of a Linking Book or the Descriptive Book causes you to be transported into the Age described by the corresponding Descriptive Book. (By the way, you can't bring the Linking Book with you into the Age it links to.) The destruction of the Descriptive Book of an Age causes the Age to be destroyed.
+
+Atrus is a master Writer. After the destruction of his civilisation (the D'ni), he writes a new Age, called Releeshan, in which the remnants of the D'ni can start afresh. Myst III: Exile starts with you ("the Stranger", since you are never named or depicted in any way, in any of the Myst series) being invited to explore Releeshan yourself with Atrus for the first time; he shows you the Descriptive Book, which you will use to enter Releeshan. However, just as you're about to enter, a person, Saveedro, appears, starts a fire, and grabs the Descriptive Book, before linking back out. The book he used falls to the floor, and you rashly follow him. So the events of the game begin. (It turns out that the fire burns the Linking Book, so you're conveniently on your own.)
+
+Proper spoilers start here; the next couple of paragraphs describe the set-up of the final puzzle. At the end of the game, you've tracked down Saveedro. It turns out that for plotty reasons, he hates Atrus's sons with a fiery passion (this is elaborated on in games 1 and 4), and this was his way of getting back at Atrus. (He intended Atrus to follow him, not you, the Stranger.) He also wanted to show Atrus the consequences of his sons' actions. To that end, he has caused you to end up in the Age of Narayan, Saveedro's home Age, which used to be vibrantly natural but was ruined by Atrus's sons. Saveedro's home, which is where you have ended up, is shielded off from the rest of Narayan, and Saveedro desperately wants to get out into Narayan proper.
+
+Saveedro's home is divided into two chunks, which we will consider to be in concentric circles, with an impenetrable shield between them, and an impenetrable shield surrounding the whole set-up. (That's why Saveedro can't escape: he is stuck behind two shields, unable to get through even one.) Linking to Narayan takes you to the inner chunk. From there, you can turn the power on to a device which has enough power to inhibit one of the shields, but not both. Being a friend of Atrus, you (naturally) have access to his journal, which gives you the key insights necessary to activate this device. The device can switch between inhibiting either of the two shields, but not both. The mechanism to control which shield is inhibited is inside both the concentric circles. (That is, while the inner shield is raised, you can't access it from the outside-circle.)
+
+One can leave the house only if one is in the outside-circle and the outer shield is inhibited. However, one person alone can't do this: after activating the inhibitor, one can cause the inner shield to be inhibited and the outer shield to remain, and thereby one can get into the outside-circle; or one can cause the outer shield to be inhibited and the inner shield to remain. There is a single small passage between inner and outer circles, but it's not big enough for you to get through.
+
+Saveedro still holds Releeshan, which it is your objective to retain. In his home, you have found a Linking Book that will return you to Atrus's home, Tomahna. You want to obtain Releeshan and return it to Atrus. Saveedro wants to escape his house. You start this scenario with you in the inner circle next to the inhibitor's controls, and Saveedro standing next to the outer shield, which is currently raised, and the inner shield is inhibited.
+
+The official solutions are as follows (least-optimal to optimal in order, so you can think about the puzzle if you want to):
+
+1.  Leave immediately, using the Tomahna Linking Book. (Then Saveedro follows you through the book you leave behind, and kills you.)
+2.  Release Saveedro immediately. (Then he destroys Releeshan, because he is still angry with Atrus. Many years of Atrus's life's work are now gone.)
+3.  Cut the power to the inhibitor, thereby raising both shields. Then Saveedro collapses, having had freedom waved in front of him and snatched away (this time, he is trapped away from all his belongings, which are in the inner circle.) He hands you Releeshan through the small passage, and pleads with you to let him out. You have several choices: you can link back to Atrus (you end the game remorseful that Saveedro is alone); you can turn power back onto the inhibitor (then Saveedro runs back and kills you); or you can turn the controls on the inhibitor and then power it back up (then Saveedro gets out of his house, and salutes you as he leaves towards the houses in the distance), before linking back to Atrus. This last ending is optimal.
+
+# The actual point of this post
+
+I was wondering whether there is a better solution, in the sense that "we don't have to cause Saveedro unnecessary anguish, and/or we can complete the scenario without requiring anyone to trust anyone else". (Recall that the solutions officially require Saveedro to be provoked into trusting you.) What we need is some sort of mechanism or box to hold Releeshan, which is open if and only if the outer shield is inhibited. Then Saveedro can go into the inner circle with you (inner shield inhibited), switch the inhibitor (opening the box), and place the book inside it (after verifying that it does indeed open under and only under those conditions). Then he switches the inhibitor (closing the box, and allowing him through to the outer circle), goes through to the outer circle, you switch the inhibitor (opening the box and allowing him to escape), take Releeshan, and link away. He cannot return to kill you (because the inner shield is up).
+
+Possible failure modes: you could shut off power to the inhibitor, thereby causing Saveedro to be trapped and you to have the unopenable box. This is obviously non-optimal, but it is precluded in-game by the fact that the controller of power to the inhibitor is located quite far from the inhibitor itself, so Saveedro has ample time to get back into the inner circle and kill you. You could link straight out, which leads to the exact scenario portrayed in-game. Saveedro could simply destroy Releeshan before putting it in the box (but then you will never release him).
+
+I can see parallels between this kind of scenario and the creation of currencies like Bitcoin. There are some pretty impressive protocols to allow parties to spend money without being able to spend the same money twice, and so forth. What I really want is an information-based solution to this Myst problem.
+
+I have heard of information-swapping protocols, to ensure that two parties swapping information will not do so asymmetrically, even if one party is evil with respect to the other. That sounds perfect for this.
+
+New plan: create a box with a long combination lock, and modify the inhibitor so that it requires the same long combination to open it. Place Releeshan in the box. Each pick digits for the combination in turn, without the other knowing the digits. Lock the box using that combination, and lock the inhibitor in the "inhibiting the inside" position. Then Saveedro goes into the outer circle, taking the box; you go with him, and ensure that it is anchored firmly in place, before going back. Saveedro starts reading out his first digit. You punch it in to the inhibitor, and he punches it into the box. You read out your first digit; then repeat. If at any point you stop entering digits into the inhibitor, or do so incorrectly, Saveedro simply stops reading out his numbers, and you can't get to Releeshan. (This is why Saveedro needs to have some numbers at all.) Similarly, Saveedro can't stop punching the digits into the safe, or else you will not release him.
+
+Now, as you get nearer to the end, you might be able to stop entering the digits and just brute-force the box open. Then Saveedro can come and kill you. Alternatively, Saveedro can stop reading his digits; but that doesn't serve him any purpose, for you know the code up to the point where he stopped reading his digits, and he's back where he started. (We will assume that there is a way to ensure that the same combination has been set for the box and the inhibitor.) Now, Saveedro has read all his digits; there are four left for you to enter. You don't read them out, but punch them in to the inhibitor and release Saveedro. Then you re-set the inhibitor and collect Releeshan, since you have the complete code to open the box.
+
+If you turn off power to the inhibitor, Saveedro will simply never give you the code to access Releeshan, so that option is ruled out on the grounds that an approach exists which doesn't require you to trust each other but still lets you both get what you want.
+
+Can anyone see any failure modes I've missed, or any simplifications? It probably works fine with just five numbers (one picked by Saveedro, and four by you), but I wanted to include a way to exchange arbitrary information.
+
+ [1]: https://en.wikipedia.org/wiki/Myst_III:_Exile "Myst III: Exile Wikipedia page"

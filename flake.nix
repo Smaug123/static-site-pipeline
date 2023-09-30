@@ -25,10 +25,6 @@
       url = "github:Smaug123/anki-decks";
       inputs.flake-utils.follows = "flake-utils";
     };
-    content-source = {
-      url = "github:Smaug123/static-site-content";
-      flake = false;
-    };
   };
 
   outputs = {
@@ -39,7 +35,6 @@
     images,
     pdfs,
     anki-decks,
-    content-source,
     extra-content,
     scripts,
   }:
@@ -91,7 +86,7 @@
           pname = "patrickstevens.co.uk";
           version = "0.1.0";
 
-          src = content-source;
+          src = ./hugo;
 
           buildInputs = [
             pkgs.hugo

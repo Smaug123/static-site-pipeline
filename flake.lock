@@ -42,22 +42,6 @@
         "type": "github"
       }
     },
-    "content-source": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1696092055,
-        "narHash": "sha256-CmQ0pcr0yiDQypcvFJ1jCviGgZCJ4Zw0t1JooX5LshM=",
-        "owner": "Smaug123",
-        "repo": "static-site-content",
-        "rev": "56b120fccfea31c0f761b4ebd68aa9af7d8d40e2",
-        "type": "github"
-      },
-      "original": {
-        "owner": "Smaug123",
-        "repo": "static-site-content",
-        "type": "github"
-      }
-    },
     "extra-content": {
       "flake": false,
       "locked": {
@@ -247,7 +231,6 @@
     "root": {
       "inputs": {
         "anki-decks": "anki-decks",
-        "content-source": "content-source",
         "extra-content": "extra-content",
         "flake-utils": "flake-utils_2",
         "images": "images",

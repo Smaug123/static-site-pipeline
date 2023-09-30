@@ -1,0 +1,18 @@
+<div class="gallery">
+  {{ $base := .Get "src" }}
+  {{ $path := print "static/" (.Get "src") }}
+
+  {{ range (readDir $path) }}
+    {{- $thumbext := "-thumb" }}
+    {{- $isthumb := .Name | findRE ($thumbext | printf "%s\\.") }}<!-- is the current file a thumbnail image? -->
+    {{- $isimg := lower .Name | findRE "\\.(gif|jpg|jpeg|tiff|png|bmp)" }}<!-- is the current file an image? -->
+    {{- if and $isimg (not $isthumb) }}
+    {{- $thumb := .Name | replaceRE "(\\.)" ($thumbext | printf "%s.") }}
+    {{- $alttextfile := .Name | replaceRE "(\\..+)" ".md" }}
+    {{- $alttext := printf "%s/%s" $path $alttextfile | os.ReadFile }}
+      <a data-fancybox="gallery" href="/{{ $base }}/{{ .Name }}">
+          <img src="/{{ $base  }}/{{ $thumb }}" width=100 height=100 alt={{ $.Page.RenderString $alttext }}>  <br/>
+      </a>
+  {{- end }}
+{{ end }}
+</div>

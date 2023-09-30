@@ -1,0 +1,13 @@
+/result
+public/
+.ionide/
+static/images/galleries
+images/**/*-thumb.jpg
+
+static/misc/**/*.tex
+static/misc/**/*.pdf
+
+.DS_Store
+
+.idea/
+.hugo_build.lock

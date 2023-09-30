@@ -1,0 +1,111 @@
+baseURL = "/"
+disablePathToLower = true
+languageCode = "en-gb"
+title = "Patrick Stevens"
+theme = "anatole"
+buildFuture = false
+enableEmoji = true
+paginate = 20
+
+[params]
+profilePicture = "/images/AboutMe/profile"
+title = "Patrick Stevens"
+author = "Patrick Stevens"
+customCss = ["css/syntax.css", "css/fontawesome.css"]
+favicon = "favicons/"
+
+[params.math]
+enable = true
+use = "katex-css"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/Smaug123/"
+
+[[params.socialIcons]]
+icon = "fab fa-stack-exchange"
+title = "Stack Exchange"
+url = "https://math.stackexchange.com/users/259262/patrick-stevens"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:patrick+sidebar@patrickstevens.co.uk"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/patrick-stevens-2846017b/"
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = true
+  tabWidth = 4
+  noClasses = false
+
+pygmentsUseClasses = true
+pygmentsCodefences = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    identifier = "posts"
+    url = "/posts"
+  [[menu.main]]
+    name = "About Me"
+    identifier = "about-me"
+    url = "/about"
+  [[menu.main]]
+    name = "About This Site"
+    identifier = "about-this-site"
+    url = "/about-this-site"
+  [[menu.main]]
+    name = "Top Posts"
+    identifier = "top-posts"
+    url = "/top-posts"
+  [[menu.main]]
+    name = "Reading List"
+    identifier = "reading-list"
+    url = "/reading-list"
+  [[menu.main]]
+    name = "Film List"
+    identifier = "films"
+    url = "/films"
+  [[menu.main]]
+    name = "Lifehacks"
+    identifier = "lifehacks"
+    url = "/lifehacks"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+[outputFormats]
+  [outputFormats.Markdown]
+    baseName = "markdown"
+    isPlainText = true
+    mediaType = "text/markdown"
+
+[mediaTypes]
+  [mediaTypes.'text/markdown']
+    suffixes = ['md']
+
+[outputs]
+post = ['HTML', 'markdown']
+page = ['HTML', 'markdown']
+
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    weight = 1

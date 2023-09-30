@@ -7,33 +7,13 @@ Every part of it is terrible.
 Some of it is unmaintained.
 You have been warned.
 
-## Checking out
-
-The builder is intended to `git subtree` to separate the mechanics of building from the content to be built, though you could simply inline your own content into the repo at the specified locations, or use submodules if you don't care about Nix support.
-
-The subtree checkout is automated using `./checkout.sh`, which you should update to point to your own content.
-After `./checkout.sh` has executed, you should be on a new branch called `working`, in which those remote repos have been read in appropriately as subtrees.
-When you want to commit changes to this repo, you need to cherry-pick them out onto `main` or similar, so as not to introduce the subtrees to the history of `main`; the `working` branch is created so that it's harder to get confused this way.
-At some point, I may write helper scripts to make the workflows sane.
-
 ## How to use
 
-I currently maintain two distinct build pipelines that should do the same thing.
-I'm in the process of standardising them as much as possible so that the choice boils down to "use Docker or use Nix to get my dependencies in place", with all the actual scripts shared.
+`nix build`.
 
-* A Nix flake (`./flake.nix`). Invoke using a plain old `nix build` to get the rendered site symlinked to `./result`.
-* A shell script (`./build.sh`) which runs a collection of pipelines in Docker images. Invoke using `sh ./build.sh` to get the rendered site in `./public`.
+### The `pdfs` flake
 
-The repository is intended to contain subtrees (see "Checking out" above) which refer to example content:
-
-* `hugo`, which refers to a [Hugo](https://github.com/gohugoio/hugo) static site directory, no tweaks required.
-* `pdfs`, which must contain a collection of TeX files and a text file `pdf-targets.txt`.
-* `images`, which must contain a collection of folders containing image files, and a text file `image-targets.txt`.
-* `meta`, which contains some amount of miscellaneous metadata.
-
-### The `pdfs` folder
-
-The `pdfs` folder is expected to contain a structure such as the following:
+The `pdfs` flake is expected to output a structure such as the following:
 
 ```
 file1.tex
@@ -60,9 +40,9 @@ static/Quux/file2.tex
 static/Quux/file2.pdf
 ```
 
-### The `images` folder
+### The `images` flake
 
-The `images` folder is expected to contain a structure such as the following:
+The `images` flake is expected to output a structure such as the following:
 
 ```
 FolderName/image1.jpg
@@ -107,3 +87,9 @@ However, in the immediate future I intend adding support for the following:
 
 There is a work-in-progress linting script, which is not currently included in the Nix build.
 It is intended to be run after `./build.sh`, and it runs a number of checks on the rendered output, such as ensuring that all HTML is syntactically valid.
+
+## License
+
+Code from the Anatole theme is MIT-licenced, and there's a copy next to it.
+The content of this website does not yet have a licence, because I haven't thought that far ahead: all rights reserved, you can `git clone` the repository from GitHub, but nothing else.
+Contact me if you want to use it for some reason.

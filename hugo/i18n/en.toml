@@ -1,0 +1,6 @@
+[page_not_found]
+  other = "Page not found"
+[page_does_not_exist]
+  other = "Page does not exist"
+[head_back]
+  other = "<a href='{{.Site.BaseURL}}'>Head back home</a>"

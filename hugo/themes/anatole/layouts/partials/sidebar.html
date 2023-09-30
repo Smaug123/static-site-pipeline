@@ -1,0 +1,27 @@
+<div class="sidebar animated fadeInDown">
+    <div class="logo-title">
+        <div class="title">
+            <img src="{{ printf "%s.png" .Site.Params.profilePicture | absURL }}" srcset="{{ printf "%s-small.png" .Site.Params.profilePicture | absURL }} 337w, {{ printf "%s.png" .Site.Params.profilePicture | absURL }} 1020w" sizes="337px, 1020px" alt="profile picture" width="127" height="127" />
+            <h3 title=""><a href="/">{{ .Site.Params.Title }}</a></h3>
+            {{ if .Site.Params.description }}
+            <div class="description">
+                <p>{{ .Site.Params.description }}</p>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    <table class="social-links">
+        <tr>
+        {{ range $item := .Site.Params.socialIcons }}
+            <td>
+                <a href="{{ $item.url }}" rel="me" aria-label="{{ $item.title }}">
+                    <span class="{{ $item.icon }} fa-2x" aria-hidden="true">&nbsp;</span>
+                </a>
+            </td>
+        {{ end }}
+        </tr>
+    </table>
+    <div class="footer">
+        <div class="by_farbox">&copy; {{ .Site.Params.author }} {{ now.Format "2006"}} </div>
+    </div>
+</div>

@@ -1,0 +1,5 @@
+{{- if strings.HasSuffix .Page.Site.BaseURL "/" -}}
+    {{ .Page.Site.BaseURL }}
+{{- else -}}
+    {{ printf "%s/" .Page.Site.BaseURL }}
+{{- end -}}

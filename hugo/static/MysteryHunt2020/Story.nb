@@ -1,0 +1,406 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     23661,        398]
+NotebookOptionsPosition[     22328,        369]
+NotebookOutlinePosition[     22666,        384]
+CellTagsIndexPosition[     22623,        381]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Lots of data contained in the following un-Open cell.", "Text",
+ CellChangeTimes->{{3.822501195789774*^9, 
+  3.822501206196813*^9}},ExpressionUUID->"e5aca7b5-45b8-4062-aff1-\
+fa62224df1b4"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"s", "=", 
+   RowBox[{"{", 
+    RowBox[{
+    "\"\<I still remember the first time I ever visited the house. My friend \
+Emmett - from the Jazz lounge where I played sometimes Friday nights - had \
+lived there for years and invited me over for house dinner and to watch a \
+movie with him. When I arrived, he gave me a tour through the maze of rooms \
+and muralled hallways, even the treehouse out back with a drawbridge and a \
+fire pole from the third floor to the first. Just about every room in the \
+house (and there were a lot!) had a story attached to it, which made the tour \
+both really interesting and really long. When we finally heard the shouts for \
+dinnertime, I served myself the lentil curry, roasted brussels sprouts, and \
+quinoa, and wandered toward the tables. \\\"Sit over here!\\\" a guy wearing \
+an xkcd shirt called to me. I squeezed in beside him as he explained, \\\"we \
+call this the inductive table. If it can fit n people, it can fit n+1.\\\" \
+The conversation over the next half hour covered a Martian rover, raising \
+chickens, and principal ideal domains...I kind of felt like I'd known these \
+people my whole life. \\\"I wish I lived here,\\\" I said offhandedly as I \
+gathered my empty plate to wash. \\\"You totally should!\\\" said xkcd-guy \
+(whose name, it turned out, was Oliver). And I got to thinking. Much later, \
+in the darkness of a starless night as I walked home, the idea of moving in \
+seemed completely natural. I turned back to the house to see the rainbow \
+\\\"you are welcome here\\\" sign (on which someone had scrawled \\\"straight \
+people welcome on alternate Thursdays\\\") and the flower bed containing a \
+pinwheel masquerading as a pansy. I was sold.\>\"", ",", 
+     "\"\<The day I moved in, I was welcomed by a girl with lavender hair and \
+a pocket protector who gave me the unofficial tour. She pointed at a whip on \
+a hook by the door. \\\"That's in case of burglars and the like. Alice found \
+it at Goodwill along with a pair of handcuffs and a leather thong after this \
+sex dungeon went out of business.\\\" Next, she pointed at an alcove with a \
+public computer. \\\"That's to look up directions or to check facts on \
+Wikipedia if you get in an argument with someone and have to prove you're \
+right.\\\" I was entranced by the fractal screensaver that kept drawing \
+itself in exponentially multicolored smaller iterations until it was too \
+small to detect, then zoom in and keep going. The girl followed my stare. \
+\\\"Oh yeah, Ethan programmed the screensaver,\\\" she said, \\\"he could \
+keep a genius occupied for hours with math questions.\\\" As she led me up \
+the stairs, the wood floors creaked beneath our feet. \\\"It's an old house, \
+but it's totally safe,\\\" she told me. She tilted her head to the side. \
+\\\"I think,\\\" she added. \\\"And this is you!\\\" She dramatically opened \
+the door to my new room, which was super-duper tiny, but there was this prism \
+hung in the window and the late afternoon sun made shards of light dance \
+around the room. I looked at the rainbow lights hopping across the wood floor \
+and I was home. I moved the desk to the center of the room, directly below \
+the skylight in the ceiling, so I would feel like a princess in a spotlight \
+while doing psets, and plunked myself down on the chair. \\\"Seems like \
+you're all good here,\\\" she said with a smile, and it was only as she \
+turned to go that I noticed the tiny Rubik's cube earring in the loeb of her \
+left ear. Definitely at home.\>\"", ",", "\[IndentingNewLine]", 
+     "\"\<When Emmett and Savanah (also from the Jazz lounge) came to visit \
+the next week, I took them on a tour of my own through the maze of staircases \
+and rooms. \\\"This place is really cool,\\\" Savanah gushed, investigating \
+our hallway murals. \\\"It has so much charact -\\\" she stopped short and \
+stared open-mouthed at a guy dissecting an octopus and wearing exactly \
+nothing. I tugged at her elbow and led her through our common room and \
+towards our central staircase. \\\"That's Jacob,\\\" I explained. But I guess \
+that wasn't much of an explanation because she still looked like she was in \
+shock. \\\"He's course 7. He's doing his senior thesis on sea animals or \
+something.\\\" Savanah looked at me like I was crazy. \\\"But he wasn't \
+wearing anything!\\\" she exclaimed. \\\"Oh right. We're clothing-optional \
+here.\\\" She stared at me. \\\"It's really great when you forget to bring \
+your towel with you to the shower.\\\" Light from the skylight fell across \
+her skeptical face. How was it that in just a week I'd come to feel like I'd \
+lived here my whole life?\>\"", ",", 
+     "\"\<Sleep deprivation being the drug of choice in my life at the time, \
+it wasn't unusual for me to wake up disoriented with the imprint of my laptop \
+keyboard on my cheek and late afternoon sunlight streaming in through the \
+skylight above my desk. Such was my half-awake and dazed state the day I \
+walked outside and saw the pirate ship in the backyard, like a beacon \
+vertically aligned with the shed. I kind of blinked for a minute, because I \
+swear the yard was empty that morning and now there was this sailboat in it, \
+complete with a skull-and-crossbones flag. \\\"Ahoy matey!\\\" Oliver called \
+to me as he took a running start, leapt into the boat, and struck a pose. \
+\\\"Ahoy?\\\" I called back, a little confused by where this was going with \
+no water. The compass he held in his hand glinted in the sun. \\\"What's a \
+pirate's favorite mathematical field?\\\" he asked me. I stared at him. \
+\\\"Arrrr!\\\" called Ethan as he hurdled himself from \
+I'm-not-even-sure-where into the boat and gave Oliver a high five.\>\"", ",", 
+     "\[IndentingNewLine]", 
+     "\"\<By the end of the day, the boat, which Oliver had completely fixed \
+up from an old crumbling dinghy, was ready for its big debut in open water. \
+We got it loaded onto a makeshift cart-thingy and about a dozen of us walked \
+it down to the river for moonlight sail. Ethan and Oliver eased it into the \
+water and hopped on board, while the rest of us split into twos and threes \
+and boarded other sailboats at the dock. Soon we were all out on the river, \
+gliding peacefully through the crisp night air and gazing at Orion in the \
+southeastern skies. That is, until Alice and Jacob slid in close to Ethan and \
+Oliver and splashed them with a bucket of river water. Within minutes, all \
+five of our boats were in a water war, each of us attempting to get close \
+enough to another to throw water at one another and then sail quickly away. \
+We were all relatively evenly matched and relatively evenly soaked until the \
+pirate ship started pirating. Ryan and I watched it coming towards us and \
+prepared our bucket for attack. But just as it got within feet of our boat, \
+and before we could even lift the bucket, Ethan leapt off his vessel and \
+landed beside me. He grabbed hold of the sail of our boat with each hand and \
+leaned back with all his weight. Within moments I was in the river, coughing \
+and spluttering and looking around for our capsized dinghy. It only took me a \
+few seconds to locate it and swim towards it, and as I grabbed hold of the \
+side and began trying to right it with Ryan's help, I saw a dripping wet \
+Ethan grinning and waving at us beneath his black flag as he sailed away. My \
+teeth were chattering when we all walked home together about an hour later, \
+and I was desperately looking forward to the toastie warmth of home and a \
+promised fire in the fireplace. The rainbow sign on the door could not have \
+come soon enough. By the time I was dry and changed into fresh clothes, the \
+fire was crackling and half a dozen people gathered around it singing. I \
+joined in \\\"Maxwell's Silver Hammer\\\", warmed by the music of this cozy \
+little group gathered in the darkness lit only by the twisting flames. \
+\\\"Anyone want cookies?\\\" Amy asked as she came in from the kitchen with a \
+heavenly smelling tray, and my evening was complete.\>\"", ",", 
+     "\[IndentingNewLine]", 
+     "\"\<Despite all the warm-fuzzies of the fireplace and singing and \
+kumbaya and all that, Ethan was not off the hook. Oh no. I mean, it was all \
+in good fun, and yeah it was a pretty badass move, but Ryan and I knew we had \
+to plot a comeback. The idea came to me when Ryan sent out an email asking \
+all the cooks to send him their menus, since he was in charge of the shopping \
+(usually he tried to do his house job as early as possible in the week, but \
+he'd been hosed.) See, I knew that while Ethan loved broccoli and cauliflower \
+for their repetitive geometry, he hated tropical fruit. So I just suggested \
+we replace at least one requested item from each day's menu with a tropical \
+fruit as a little surprise. I figured the cooks would be totally down to \
+experiment with how to incorporate an unexpected ingredient...and I happen to \
+love papaya. By the time the last menu came in that evening, we only had \
+about a half hour before the grocery store closed for the night and in the \
+rush to go, I tripped over the flower bed outside the front door. By the time \
+we had scooped the soil back in, we had twenty minutes left. We literally ran \
+to the store, breathlessly grabbed a cart, and practically sailed through the \
+maze of aisles, trying to find each one of the dozens of items listed, not \
+always very helpfully (like seriously, somebody had written \\\"granola from \
+a brand that's called nature something or maybe something nature and I think \
+the package is red but it might be green\\\"). Anyway, by 10:59 our mission \
+was accomplished: all weekly food had been bought plus two bags of fruit. The \
+next day, Priya looked at the twenty mangoes we had bought her instead of her \
+requested bell peppers, read the note we had enclosed with it, and laughed. \
+We all enjoyed the mango pilaf that night...except Ethan. But the best part \
+was the look on his face when he tried the dragon fruit pudding (and the rush \
+he was in to rinse his mouth after he spit it out). Priceless.\>\"", ",", 
+     "\[IndentingNewLine]", 
+     "\"\<Ethan prepared his response that night. He crept out to the back \
+yard in the darkness with a pineapple in tow. He had decorated it to look \
+like a face with wild carrot-spirals for hair and a superman cape. He placed \
+his artwork at the end of the bow with a sign that said, \\\"I may not be \
+delicious but I am the captain of the pirate ship and I contain the Fibonacci \
+sequence. Mwahahaha.\\\"\>\"", ",", "\[IndentingNewLine]", 
+     "\"\<I noticed Captain Pineapple the following morning as I went out for \
+a run. Several of my housemates were already outside doing pushups and \
+sweating profusely. \\\"We're doing the Murph,\\\" Amanda gasped as she \
+rested for a moment. \\\"It's a CrossFit workout...next exercise is 300 \
+squats; want to join?\\\" she asked, with a can-do attitude. I watched Carlos \
+collapse into the grass and roll onto his back. \\\"I'm good,\\\" I said and \
+took off toward the Esplanade. The rush of blood felt good throughout my body \
+after a long week of psets and the early morning world seemed exceptionally \
+alive. I watched the T glide across the Longfellow bridge like a caterpillar \
+on ice skates and thought about all the people inside going places, thinking \
+thoughts, experiencing experiences...it just kind of suddenly felt like I was \
+this simultaneously insignificant and all-consuming being, like everything I \
+did and said was the entirety of my own life but it was all a speck of dust \
+in the world at large. I gazed at the sparkling river in the morning sunlight \
+that just days ago I had fallen into in the darkness of night, and I planned \
+my next move. As soon as I got home, I went to the fridge and took out all \
+the dragon fruit left over from the pudding. I cut it up and arranged the \
+pieces on the seat of the boat, forming the word, \\\"truce?\\\"\>\"", ",", 
+     "\[IndentingNewLine]", 
+     "\"\<After that, the pirate ship moved to the shed. In the years to \
+follow, it would go on many more journeys, but this is the tale we still tell \
+first to curious visitors. I had a professor that semester that always used \
+to say, \\\"this isn't fun-and-games topology; this is point-set \
+topology!\\\" And I guess I could say the same thing about that house. I mean \
+sure, it was fun, and sure there were games, but it wasn't just fun-and-games \
+coop life, and over time I would discover layers of depth in this group of \
+people that I hadn't noticed on first meeting. My housemates were the compass \
+that got me through each day that year. And sure, it was kind of annoying to \
+find that the Coke someone had left open on the side counter was still there \
+and still open 10 days later. And then to discover a lightened ring in the \
+wood of the countertop 14 days after that, and the Coke still there and still \
+open. And then to discover 9 days after that that was an intentional \
+experiment, not to see if it would grow mold (which it did!) but to see if \
+someone would take the initiative to throw it away (which obviously no one \
+did, but honestly we were just trying to be respectful of someone else's \
+drink/experiment!). And yeah, it's kind of fun to take a break at 3am from my \
+automorphic forms project and hear someone tell the story of the superman \
+Fibonacci fruit (and have someone else argue that it wasn't superman \
+Fibonacci fruit, it was electric bluegaloo Fibonacci fruit). But it wasn't \
+just about the games and it wasn't just about the pranks. It was about living \
+a life worth living with people worth living it with. And peace and love and \
+all that hippie stuff. So yeah, that's my story. The end.\>\""}], 
+    "\[IndentingNewLine]", "}"}]}], ";"}]], "Input",
+ CellOpen->False,
+ CellChangeTimes->{{3.788327478627075*^9, 3.788327482238841*^9}, {
+  3.7883275163281107`*^9, 3.7883275574939413`*^9}, {3.788327634016327*^9, 
+  3.788327707163948*^9}, {3.788327824264697*^9, 3.7883278255098248`*^9}, {
+  3.788327861859837*^9, 3.7883279849607973`*^9}},
+ CellLabel->"In[20]:=",ExpressionUUID->"3261cd16-9da6-4984-af70-d8fbf8373601"],
+
+Cell["\<\
+And lots more data, this time from the page\[CloseCurlyQuote]s source (not \
+displaying directly).\
+\>", "Text",
+ CellChangeTimes->{{3.822501261987989*^9, 
+  3.822501272826807*^9}},ExpressionUUID->"09eaa486-1096-409f-b05d-\
+8ff56391e9ce"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"numbers", "=", 
+   RowBox[{"StringSplit", "[", 
+    RowBox[{
+    "\"\<434203285909121529492351699858568010896672212032596087103693584899938\
+295500191928673654685515776394732832181233227434959359103349439893793967925716\
+934406421392675753141302149004139344716517264183499759568038134785354737130419\
+511915695267199479049762451832960098254760553513192825744015396159623242415539\
+225652248987563299811422414680145585296244710302552272451005909231803120668062\
+547788053609211532374263873371348159607936796288761582173864681307817908560355\
+07731879635110068223\n\
+704535069691257218994199738784815385507620130913341483504800862075077397984633\
+512199311861547399075452552540044872374386224842117367119335920414129579710019\
+230868175034698462310251945883473666910683479614413002176371228729111431124903\
+575580292159282138998947145645297640250545623114100366140505648332587882715501\
+706137522350807042505468936154494182604667651316452523280600373441344107965279\
+550245166552423402684340792413713321003100077890033118203117949959453745909511\
+4566091455917381089681258491114205527146495\n\
+224711641857789488466163148848628091702247121108236006986872825712407947922001\
+657252627808586960822862747085345073459590168125115214086843129445621939389391\
+671156430957114064478348987741095096500383385272309618317511227138038881849120\
+70821710725847605732265929103232617232844274471668730648435417823097913343\n\
+653996952628334664419640714071875639352485221183517515587744354856330060478799\
+634069398698119958847928429592522990501410049241974911342249144246034971846889\
+406908732956816156859213118172099431843734179520708620289122650452140893058646\
+224773974209259988029118218997919686519982874024286209125122047\n\
+386919278893906063546095664402592745674787840900954156815958114353612673231061\
+537537301647806649399210168119192041736033368959126760933959863683765134104951\
+760657961815480191467344248167923533181337021248748276779565529553549439505511\
+113892769107170396121844318246349071555731218624316188040896809028924375733859\
+455928748220846745818999406153569350260984253301615112924705158144649655557204\
+767962014173434567539380685615837032340420577039574772600254570218382357133353\
+512271519464046444662209362158128240713451190212330884844920443259374342721961\
+811670540279763335425232022378349384515580181612520176294354218209748811526163\
+645387742558857287699911127042682774146244607\n\
+326318370092125895846730032069922877287056450412456659759453015973580955579461\
+079729024927063635627015330293736239618827750133258754367742695121124965631607\
+676130282548943608244498321644981179494092511356080393660155599981617808524150\
+797496393912633219162602648573986320963438371318937845049381481227040149733773\
+629590317128229717406564474686914919716046763702617063723402781250789991873211\
+569463366018902598270192153849476362036333274444171707510223862866272545350744\
+531213577084025678004786675310111930574104289541368003044838617286198107119125\
+0611901477000128712730564878749658534379519\n\
+157608024785577916849049410805701926780244112653543988167408370078529746549157\
+016349242039351847916049076529234182143\n\
+457745697060271970690364893308572017003250952766821778295312230851275919557715\
+086191117031964761119386609415351851836954116639068765506916451816756865411859\
+242167560535110836705999835855685476727480660081631160557450034037354181928161\
+041826121681701760472573993569517162754624482353646955367287643142770143156592\
+048905024667165581374728486286921306633645505263263151228818758816217777110983\
+46078207\n\
+220167222401506572266383890825000394729582449398655433009737834636077712715218\
+534125730042826022576704199467346121228872898255202520455295985060846700450860\
+341466337869102080849492156034738613995337893537637371005470210654068070655789\
+551749435003558768479728456164008210918168553985601029835141668172450321329149\
+425134691570444585227686732385019522871509867189546137931553812777341387519499\
+998541197917052098325428146723379786052077153957923851028314168539035975442565\
+859867553894174416504787828421836027199486\>\"", ",", "\"\<\\n\>\""}], 
+    "]"}]}], ";"}]], "Input",
+ CellOpen->False,
+ CellChangeTimes->{{3.788327198086376*^9, 3.788327207845333*^9}, {
+   3.788328735484106*^9, 3.788328751677046*^9}, 3.822501311272709*^9},
+ CellLabel->"In[23]:=",ExpressionUUID->"baa54d0d-c4e6-41fa-8c62-fb2632ef6fb1"],
+
+Cell["\<\
+The numbers have useful binary expansions: there are exactly as many bits in \
+each number as there are characters in the corresponding paragraph.\
+\>", "Text",
+ CellChangeTimes->{{3.822501321325976*^9, 3.82250134539002*^9}, {
+  3.822501389339737*^9, 
+  3.822501401355956*^9}},ExpressionUUID->"dc34c127-3664-4bb9-b692-\
+84724d23fd7f"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"numbers", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"IntegerDigits", "[", 
+       RowBox[{"#", ",", "2"}], "]"}], "&"}], "@*", "FromDigits"}], "/@", 
+    "numbers"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.822501326781706*^9, 3.822501329844915*^9}},
+ CellLabel->"In[25]:=",ExpressionUUID->"b6d1f33e-2123-43a5-8b6a-5921f74febcf"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"StringLength", "/@", "s"}], "==", 
+  RowBox[{"Length", "/@", "numbers"}]}]], "Input",
+ CellChangeTimes->{{3.788327558212542*^9, 3.788327560323099*^9}, {
+  3.78832783194746*^9, 3.788327833041628*^9}, {3.788328770179057*^9, 
+  3.788328770437743*^9}},
+ CellLabel->
+  "In[208]:=",ExpressionUUID->"5bde14ce-d407-41aa-929d-cf1501174d5d"],
+
+Cell[BoxData["True"], "Output",
+ CellChangeTimes->{
+  3.7883275604538937`*^9, 3.788327709202705*^9, 3.788327833450037*^9, 
+   3.7883279169298687`*^9, {3.788327962029283*^9, 3.788327987237184*^9}, {
+   3.788328765500535*^9, 3.788328770760858*^9}},
+ CellLabel->
+  "Out[208]=",ExpressionUUID->"1c7dccf7-33cf-4d2f-8596-a685193a7a42"]
+}, Open  ]],
+
+Cell["\<\
+There turn out to be very few 0 bits in those numbers, and they indicate \
+letters.\
+\>", "Text",
+ CellChangeTimes->{{3.82250145610256*^9, 
+  3.822501469622552*^9}},ExpressionUUID->"031e64a2-e956-4b37-98d0-\
+7f3450286bff"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"StringJoin", "[", 
+  RowBox[{"Flatten", "[", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"Pick", "[", 
+      RowBox[{
+       RowBox[{"Characters", "@", 
+        RowBox[{"#", "[", 
+         RowBox[{"[", "1", "]"}], "]"}]}], ",", 
+       RowBox[{"#", "[", 
+        RowBox[{"[", "2", "]"}], "]"}], ",", "0"}], "]"}], "&"}], "/@", 
+    RowBox[{"Transpose", "@", 
+     RowBox[{"{", 
+      RowBox[{"s", ",", "numbers"}], "}"}]}]}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.82250140707827*^9, 3.822501449606085*^9}},
+ CellLabel->"In[29]:=",ExpressionUUID->"44ebcf57-e6aa-4452-9063-be1ec8cfe4c6"],
+
+Cell[BoxData["\<\"Which sMall mammal's name sounds like a typesetting \
+measurement? Once you know, find the rooms and trace them.\"\>"], "Output",
+ CellChangeTimes->{{3.8225014408234987`*^9, 3.822501450002359*^9}},
+ CellLabel->"Out[29]=",ExpressionUUID->"a2997ab2-9183-4328-8f2d-3614ef5a659b"]
+}, Open  ]]
+},
+WindowSize->{1295, 705},
+WindowMargins->{{Automatic, 41}, {Automatic, 27}},
+FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 195, 3, 35, "Text",ExpressionUUID->"e5aca7b5-45b8-4062-aff1-fa62224df1b4"],
+Cell[756, 25, 14267, 193, 19, "Input",ExpressionUUID->"3261cd16-9da6-4984-af70-d8fbf8373601",
+ CellOpen->False],
+Cell[15026, 220, 248, 6, 35, "Text",ExpressionUUID->"09eaa486-1096-409f-b05d-8ff56391e9ce"],
+Cell[15277, 228, 4399, 63, 19, "Input",ExpressionUUID->"baa54d0d-c4e6-41fa-8c62-fb2632ef6fb1",
+ CellOpen->False],
+Cell[19679, 293, 344, 7, 35, "Text",ExpressionUUID->"dc34c127-3664-4bb9-b692-84724d23fd7f"],
+Cell[20026, 302, 382, 10, 30, "Input",ExpressionUUID->"b6d1f33e-2123-43a5-8b6a-5921f74febcf"],
+Cell[CellGroupData[{
+Cell[20433, 316, 366, 8, 30, "Input",ExpressionUUID->"5bde14ce-d407-41aa-929d-cf1501174d5d"],
+Cell[20802, 326, 329, 6, 34, "Output",ExpressionUUID->"1c7dccf7-33cf-4d2f-8596-a685193a7a42"]
+}, Open  ]],
+Cell[21146, 335, 232, 6, 35, "Text",ExpressionUUID->"031e64a2-e956-4b37-98d0-7f3450286bff"],
+Cell[CellGroupData[{
+Cell[21403, 345, 612, 16, 30, "Input",ExpressionUUID->"44ebcf57-e6aa-4452-9063-be1ec8cfe4c6"],
+Cell[22018, 363, 294, 3, 34, "Output",ExpressionUUID->"a2997ab2-9183-4328-8f2d-3614ef5a659b"]
+}, Open  ]]
+}
+]
+*)
+
