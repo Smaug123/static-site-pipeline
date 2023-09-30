@@ -19,6 +19,57 @@
         "type": "github"
       }
     },
+    "anki-decks": {
+      "inputs": {
+        "anki-compiler": "anki-compiler",
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": "nixpkgs_2"
+      },
+      "locked": {
+        "lastModified": 1696027377,
+        "narHash": "sha256-3U2rucDeMbKe+5DwI+Aln5bABRSFcOTwQI+DuqiqAKo=",
+        "owner": "Smaug123",
+        "repo": "anki-decks",
+        "rev": "6b612a9193a71caf79e7bc1e01fda7f6495abd2a",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Smaug123",
+        "repo": "anki-decks",
+        "type": "github"
+      }
+    },
+    "content-source": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1694371160,
+        "narHash": "sha256-fOhvSnah74ZLYV130HOYnVduw5qpK32GikDdC6u/4gA=",
+        "owner": "Smaug123",
+        "repo": "static-site-content",
+        "rev": "67c4f084fc3425e86c1f98e3b0e5fa1b8049296d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Smaug123",
+        "repo": "static-site-content",
+        "type": "github"
+      }
+    },
+    "extra-content": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1694359899,
+        "narHash": "sha256-zqso6yrZLMvhEWBrffXMTvirHeX/CWy0HmfCpC+FFXE=",
+        "path": "/Users/patrick/Desktop/website/extra-site-content",
+        "type": "path"
+      },
+      "original": {
+        "path": "/Users/patrick/Desktop/website/extra-site-content",
+        "type": "path"
+      }
+    },
     "flake-utils": {
       "inputs": {
         "systems": "systems"
@@ -42,16 +93,52 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1692799911,
-        "narHash": "sha256-3eihraek4qL744EvQXsK1Ha6C3CR7nnT8X2qWap4RNk=",
+        "lastModified": 1694529238,
+        "narHash": "sha256-zsNZZGTGnMOf9YpHKJqMSsa0dXbfmxeoJ7xHlrt+xmY=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "f9e7cf818399d17d347f847525c5a5a8032e4e44",
+        "rev": "ff7b65b44d01cf9ba6a71320833626af21126384",
         "type": "github"
       },
       "original": {
         "owner": "numtide",
         "repo": "flake-utils",
+        "type": "github"
+      }
+    },
+    "images": {
+      "inputs": {
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": "nixpkgs_3",
+        "scripts": "scripts"
+      },
+      "locked": {
+        "lastModified": 1696067098,
+        "narHash": "sha256-EJzgliSlIVcKGNF80gdqENn7AvC0Mbn0OILofVEdhxA=",
+        "path": "/Users/patrick/Desktop/website/static-site-images",
+        "type": "path"
+      },
+      "original": {
+        "path": "/Users/patrick/Desktop/website/static-site-images",
+        "type": "path"
+      }
+    },
+    "katex-source": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1691244098,
+        "narHash": "sha256-hDHo7JQAo+fGxQvY5OtXlfh+e6PjlVIQPTyCa3Fjg0Y=",
+        "owner": "KaTeX",
+        "repo": "KaTeX",
+        "rev": "4f1d9166749ca4bd669381b84b45589f1500a476",
+        "type": "github"
+      },
+      "original": {
+        "owner": "KaTeX",
+        "repo": "KaTeX",
+        "rev": "4f1d9166749ca4bd669381b84b45589f1500a476",
         "type": "github"
       }
     },
@@ -86,11 +173,116 @@
         "type": "github"
       }
     },
+    "nixpkgs_3": {
+      "locked": {
+        "lastModified": 1688392541,
+        "narHash": "sha256-lHrKvEkCPTUO+7tPfjIcb7Trk6k31rz18vkyqmkeJfY=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "ea4c80b39be4c09702b0cb3b42eab59e2ba4f24b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-22.11",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_4": {
+      "locked": {
+        "lastModified": 1688392541,
+        "narHash": "sha256-lHrKvEkCPTUO+7tPfjIcb7Trk6k31rz18vkyqmkeJfY=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "ea4c80b39be4c09702b0cb3b42eab59e2ba4f24b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-22.11",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_5": {
+      "locked": {
+        "lastModified": 1688392541,
+        "narHash": "sha256-lHrKvEkCPTUO+7tPfjIcb7Trk6k31rz18vkyqmkeJfY=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "ea4c80b39be4c09702b0cb3b42eab59e2ba4f24b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-22.11",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "pdfs": {
+      "inputs": {
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": "nixpkgs_5"
+      },
+      "locked": {
+        "lastModified": 1696026308,
+        "narHash": "sha256-TM4d1ZQ+AEhjbHZk6qMhwACSLet6HZbWqKEwyxsQAQw=",
+        "owner": "Smaug123",
+        "repo": "static-site-pdfs",
+        "rev": "f2cb47916b08a5ade2b6edba5a7aeee67cef8feb",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Smaug123",
+        "repo": "static-site-pdfs",
+        "type": "github"
+      }
+    },
     "root": {
       "inputs": {
-        "anki-compiler": "anki-compiler",
+        "anki-decks": "anki-decks",
+        "content-source": "content-source",
+        "extra-content": "extra-content",
         "flake-utils": "flake-utils_2",
-        "nixpkgs": "nixpkgs_2"
+        "images": "images",
+        "katex-source": "katex-source",
+        "nixpkgs": "nixpkgs_4",
+        "pdfs": "pdfs",
+        "scripts": "scripts_2"
+      }
+    },
+    "scripts": {
+      "locked": {
+        "lastModified": 1696031019,
+        "narHash": "sha256-MuKEC8ZZ1Znm2idxQEQYU18z/1l9rjBZaj5gdKd9elQ=",
+        "owner": "Smaug123",
+        "repo": "flake-shell-script",
+        "rev": "05cc0582a193d3b42b6b4e64c6ec7a9bca4bb3c5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Smaug123",
+        "repo": "flake-shell-script",
+        "type": "github"
+      }
+    },
+    "scripts_2": {
+      "locked": {
+        "lastModified": 1696031019,
+        "narHash": "sha256-MuKEC8ZZ1Znm2idxQEQYU18z/1l9rjBZaj5gdKd9elQ=",
+        "owner": "Smaug123",
+        "repo": "flake-shell-script",
+        "rev": "05cc0582a193d3b42b6b4e64c6ec7a9bca4bb3c5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Smaug123",
+        "repo": "flake-shell-script",
+        "type": "github"
       }
     },
     "systems": {
