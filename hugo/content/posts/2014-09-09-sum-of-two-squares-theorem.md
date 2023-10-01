@@ -12,7 +12,7 @@ aliases:
 title: Sum-of-two-squares theorem
 ---
 
-*Wherein I detail the most beautiful proof of a theorem I've ever seen, in a bite-size form suitable for an Anki deck. I attach the [Anki deck], which contains the bulleted lines of this post as flashcards.*
+*Wherein I detail the most beautiful proof of a theorem I've ever seen, in a bite-size form suitable for an Anki deck.
 
 # Statement
 There's no particularly nice way to motivate this in this context, I'm afraid, so we'll just dive in. I have found this method extremely hard to motivate - a few of the steps are a glorious magic.
@@ -31,8 +31,6 @@ Additionally, we'll call a number which is the sum of two squares a **nice** num
 
 ## First implication: if primes 3 mod 4 appear only to even powers…
 We prove the result first for the primes, and will then show that niceness is preserved on taking products.
-
-
 
 * Let \\(p=2\\). Then \\(p\\) is trivially the sum of two squares: it is \\(1+1\\).
 * Let \\(p\\) be 1 mod 4.
@@ -82,4 +80,3 @@ That ends the proof. Its beauty lies in the way it regards sums of two squares a
 [UFD]: https://en.wikipedia.org/wiki/Unique_factorization_domain
 [irreducible]: https://en.wikipedia.org/wiki/Irreducible_element
 [prime]: https://en.wikipedia.org/wiki/Prime_element
-[Anki deck]: {{< baseurl >}}AnkiDecks/SumOfTwoSquaresTheorem.apkg

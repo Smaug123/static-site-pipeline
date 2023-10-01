@@ -14,7 +14,7 @@ summary: "A fairly long and winding way through a proof of the three Sylow theor
 ---
 (This post is mostly to set up a kind of structure for the website; in particular, to be the first in a series of posts summarising some mathematical results I stumble across.)
 
-EDIT: There is now [an Anki deck](/AnkiDecks/SylowTheoremsProof.apkg) of this proof, and a [collection of poems][sylow sonnets] summarising it.
+EDIT: There is now a [collection of poems][sylow sonnets] summarising this proof.
 
 In Part IB of the Mathematical Tripos (that is, second-year material), there is a course called Groups, Rings and Modules. I took it in the academic year 2012-2013, when it was lectured by [Imre Leader](https://en.wikipedia.org/wiki/Imre_Leader). He told us that there were three main proofs of the [Sylow theorems](https://en.wikipedia.org/wiki/Sylow_theorems), two of which were horrible and one of which was nice; he presented the "nice" one. At the time, I thought this was the most beautiful proof of anything I'd ever seen, although other people have told me it's a disgusting proof.
 

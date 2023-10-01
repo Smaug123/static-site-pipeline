@@ -104,11 +104,11 @@
         "scripts": "scripts_2"
       },
       "locked": {
-        "lastModified": 1696161637,
-        "narHash": "sha256-GwkTsWHakdktMrIlaonEGl/+/GxEgC3xpn1QzNNxKhU=",
+        "lastModified": 1696175612,
+        "narHash": "sha256-8V8klzc7T3EdAdS4r8RRjNvTTytQOsvfi7DfK6NFK6M=",
         "ref": "refs/heads/main",
-        "rev": "f47d539cedfaab677133b53fd4d02e24d2256985",
-        "revCount": 14,
+        "rev": "ac0b0180304bce7683dc8b4466a6e92b339c0b7e",
+        "revCount": 15,
         "type": "git",
         "url": "file:/Users/patrick/Desktop/website/static-site-images"
       },
