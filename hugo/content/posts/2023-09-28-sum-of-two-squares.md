@@ -1,8 +1,8 @@
 ---
-lastmod: "2023-09-28T00:15:00.0000000+01:00"
+lastmod: "2023-10-01T00:15:00.0000000+01:00"
 author: patrick
 categories:
-- programming
+- mathematical_summary
 date: "2023-09-28T00:15:00Z"
 title: The tiny proof that primes 1 mod 4 are sums of two squares
 summary: "Exploding the incredibly terse proof into a bunch of exposition."
