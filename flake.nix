@@ -15,7 +15,7 @@
       inputs.flake-utils.follows = "flake-utils";
     };
     images = {
-      url = "path:/Users/patrick/Desktop/website/static-site-images";
+      url = "git+file:/Users/patrick/Desktop/website/static-site-images";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };

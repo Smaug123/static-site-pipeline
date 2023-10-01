@@ -104,14 +104,17 @@
         "scripts": "scripts_2"
       },
       "locked": {
-        "lastModified": 1696161638,
-        "narHash": "sha256-STvSrCvIKnwvFxyzTjnpPGyPexLAKd5eiAPtBrJ3NG8=",
-        "path": "/Users/patrick/Desktop/website/static-site-images",
-        "type": "path"
+        "lastModified": 1696161637,
+        "narHash": "sha256-GwkTsWHakdktMrIlaonEGl/+/GxEgC3xpn1QzNNxKhU=",
+        "ref": "refs/heads/main",
+        "rev": "f47d539cedfaab677133b53fd4d02e24d2256985",
+        "revCount": 14,
+        "type": "git",
+        "url": "file:/Users/patrick/Desktop/website/static-site-images"
       },
       "original": {
-        "path": "/Users/patrick/Desktop/website/static-site-images",
-        "type": "path"
+        "type": "git",
+        "url": "file:/Users/patrick/Desktop/website/static-site-images"
       }
     },
     "katex": {
