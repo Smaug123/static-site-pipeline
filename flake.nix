@@ -78,7 +78,7 @@
           ];
 
           buildPhase = ''
-            ${scripts.lib.createShellScript pkgs "all" ./build/all.sh}/run.sh "${pdfs.packages.${system}.default}" "${images}" "${anki-decks.packages.${system}.default}" "${buildHugo}" "${katex-parts}" "${extra-content}"
+            ${scripts.lib.createShellScript pkgs "all" ./build/all.sh}/run.sh "${pdfs.packages.${system}.default}" "${images.packages.${system}.default}" "${anki-decks.packages.${system}.default}" "${buildHugo}" "${katex-parts}" "${extra-content}"
           '';
 
           checkPhase = ''
