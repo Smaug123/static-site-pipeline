@@ -9,20 +9,24 @@
       url = "path:/Users/patrick/Desktop/website/extra-site-content";
       flake = false;
     };
-    katex-source = {
-      url = "github:KaTeX/KaTeX/4f1d9166749ca4bd669381b84b45589f1500a476";
-      flake = false;
+    katex = {
+      url = "github:Smaug123/KaTeX/nix";
+      inputs.nixpkgs.follows = "nixpkgs";
+      inputs.flake-utils.follows = "flake-utils";
     };
     images = {
       url = "path:/Users/patrick/Desktop/website/static-site-images";
+      inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
     pdfs = {
       url = "github:Smaug123/static-site-pdfs";
+      inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
     anki-decks = {
       url = "github:Smaug123/anki-decks";
+      inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
   };
@@ -31,7 +35,7 @@
     self,
     nixpkgs,
     flake-utils,
-    katex-source,
+    katex,
     images,
     pdfs,
     anki-decks,
@@ -48,36 +52,16 @@
       let
         buildHugo = scripts.lib.createShellScript pkgs "hugo" ./docker/hugo/build.sh;
       in let
-        katex = pkgs.stdenv.mkDerivation {
+        katex-parts = pkgs.stdenv.mkDerivation {
           __contentAddressed = true;
           pname = "katex";
           version = "0.1.0";
-          src = katex-source;
-
-          buildInputs = [pkgs.nodejs pkgs.yarn];
-
-          buildPhase = ''
-            export HOME=$(mktemp -d)
-            yarn --immutable
-            yarn build
-          '';
+          src = katex.outputs.packages.${system}.default;
 
           installPhase = ''
-            mkdir -p "$out/fonts"
-            cp ./fonts/* "$out/fonts"
-            cp -r ./dist "$out/dist"
-          '';
-        };
-      in let
-        extraContent = pkgs.stdenv.mkDerivation {
-          __contentAddressed = true;
-          pname = "patrickstevens.co.uk-extraContent";
-          version = "0.1.0";
-          src = extra-content;
-          buildInputs = [];
-          installPhase = ''
-            mkdir -p $out
-            cp -r ./. $out
+            mkdir "$out"
+            ls -la .
+            cp -r ./libexec/katex/dist "$out/dist"
           '';
         };
       in
@@ -94,7 +78,7 @@
           ];
 
           buildPhase = ''
-            ${scripts.lib.createShellScript pkgs "all" ./build/all.sh}/run.sh "${pdfs.packages.${system}.default}" "${images}" "${anki-decks.packages.${system}.default}" "${buildHugo}" "${katex}" "${extraContent}"
+            ${scripts.lib.createShellScript pkgs "all" ./build/all.sh}/run.sh "${pdfs.packages.${system}.default}" "${images}" "${anki-decks.packages.${system}.default}" "${buildHugo}" "${katex-parts}" "${extra-content}"
           '';
 
           checkPhase = ''

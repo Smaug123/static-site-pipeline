@@ -25,7 +25,9 @@
         "flake-utils": [
           "flake-utils"
         ],
-        "nixpkgs": "nixpkgs_2",
+        "nixpkgs": [
+          "nixpkgs"
+        ],
         "scripts": "scripts"
       },
       "locked": {
@@ -96,7 +98,9 @@
         "flake-utils": [
           "flake-utils"
         ],
-        "nixpkgs": "nixpkgs_3",
+        "nixpkgs": [
+          "nixpkgs"
+        ],
         "scripts": "scripts_2"
       },
       "locked": {
@@ -110,20 +114,27 @@
         "type": "path"
       }
     },
-    "katex-source": {
-      "flake": false,
+    "katex": {
+      "inputs": {
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
       "locked": {
-        "lastModified": 1691244098,
-        "narHash": "sha256-hDHo7JQAo+fGxQvY5OtXlfh+e6PjlVIQPTyCa3Fjg0Y=",
-        "owner": "KaTeX",
+        "lastModified": 1696151934,
+        "narHash": "sha256-8kihcqdgYjoVuGozfgfcWh81yqMUvns4+C/fgkn+RNQ=",
+        "owner": "Smaug123",
         "repo": "KaTeX",
-        "rev": "4f1d9166749ca4bd669381b84b45589f1500a476",
+        "rev": "ac1f9b30441f63ea20216a36ffa7148dc0e9a9b3",
         "type": "github"
       },
       "original": {
-        "owner": "KaTeX",
+        "owner": "Smaug123",
+        "ref": "nix",
         "repo": "KaTeX",
-        "rev": "4f1d9166749ca4bd669381b84b45589f1500a476",
         "type": "github"
       }
     },
@@ -158,60 +169,14 @@
         "type": "github"
       }
     },
-    "nixpkgs_3": {
-      "locked": {
-        "lastModified": 1688392541,
-        "narHash": "sha256-lHrKvEkCPTUO+7tPfjIcb7Trk6k31rz18vkyqmkeJfY=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "ea4c80b39be4c09702b0cb3b42eab59e2ba4f24b",
-        "type": "github"
-      },
-      "original": {
-        "owner": "NixOS",
-        "ref": "nixos-22.11",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    "nixpkgs_4": {
-      "locked": {
-        "lastModified": 1688392541,
-        "narHash": "sha256-lHrKvEkCPTUO+7tPfjIcb7Trk6k31rz18vkyqmkeJfY=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "ea4c80b39be4c09702b0cb3b42eab59e2ba4f24b",
-        "type": "github"
-      },
-      "original": {
-        "owner": "NixOS",
-        "ref": "nixos-22.11",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    "nixpkgs_5": {
-      "locked": {
-        "lastModified": 1688392541,
-        "narHash": "sha256-lHrKvEkCPTUO+7tPfjIcb7Trk6k31rz18vkyqmkeJfY=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "ea4c80b39be4c09702b0cb3b42eab59e2ba4f24b",
-        "type": "github"
-      },
-      "original": {
-        "owner": "NixOS",
-        "ref": "nixos-22.11",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
     "pdfs": {
       "inputs": {
         "flake-utils": [
           "flake-utils"
         ],
-        "nixpkgs": "nixpkgs_5",
+        "nixpkgs": [
+          "nixpkgs"
+        ],
         "scripts": "scripts_3"
       },
       "locked": {
@@ -234,8 +199,8 @@
         "extra-content": "extra-content",
         "flake-utils": "flake-utils_2",
         "images": "images",
-        "katex-source": "katex-source",
-        "nixpkgs": "nixpkgs_4",
+        "katex": "katex",
+        "nixpkgs": "nixpkgs_2",
         "pdfs": "pdfs",
         "scripts": "scripts_4"
       }
