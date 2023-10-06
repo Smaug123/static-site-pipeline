@@ -8,7 +8,7 @@ title: Raymond Smullyan chess problem walkthrough
 summary: "The thought process behind solving a particular Raymond Smullyan chess retrograde analysis puzzle."
 ---
 
-![A chess board. A white bishop is on a4. A black king is on d1, a black rook on b5, and a black bishop on d5.](https://pbs.twimg.com/media/F7wXUNxWgAApBsv?format=png&name=360x360 "Smullyan chess puzzle")
+![A chess board. A white bishop is on a4. A black king is on d1, a black rook on b5, and a black bishop on d5.](https://pbs.twimg.com/media/F7wXUNxWgAApBsv?format=png&name=360x360 "Smullyan chess puzzle. A white bishop is on a4. A black king is on d1, a black rook on b5, and a black bishop on d5.")
 
 Raymond Smullyan apparently asked: in the above board, there is one piece missing, the white king.
 Where is the white king?
