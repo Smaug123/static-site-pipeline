@@ -46,7 +46,7 @@ It's in check, twice!
 That means Black's most recent move was to give check, in *two* different ways.
 
 We've already discussed that the discovered checks can't have been set up by moving the rook or bishop: that same reasoning was how we determined that it's currently Black to move.
-So there must have been a third black piece on the board, which was moved most recently.
+So there must have been a third black piece on the board, which Black moved most recently, and which was taken in White's most recent move.
 Moreover, the moving of that third piece must have somehow caused a discovered check both from the black bishop and rook.
 
 ## What is the only way that a single piece moving can cause two discovered checks?
