@@ -37,7 +37,7 @@ So the most recent move was the white king, and it has just moved so as to give 
 
 ## What was the most recent move?
 
-The white king *must* have been on b3 so as to reveal the check from the bishop (otherwise the white bishop was giving check throughout the duration of white's last move, which isn't legal).
+The white king *must* have been on b3 so as to reveal the check from the bishop (otherwise the white bishop was giving check throughout the duration of White's last move, which isn't legal).
 That means it is now on c3 or a3.
 
 ## What is surprising about the king being on b3?
