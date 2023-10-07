@@ -28,3 +28,4 @@ hugo/static/misc/TokyoEntrance2016/
 .DS_Store
 
 .idea/
+.profile*
