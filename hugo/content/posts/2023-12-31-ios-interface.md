@@ -5,7 +5,7 @@ categories:
 - uncategorized
 date: "2023-12-31T12:49:00.0000000+00:00"
 title: iOS interface
-summary: "A bunch of ways the iOS user interface is bad, and some undiscoverable features"
+summary: "A bunch of ways the iOS user interface is bad, and some undiscoverable features."
 ---
 
 As I think is generally agreed, the iOS user interface is really very bad.
