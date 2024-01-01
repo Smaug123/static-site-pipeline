@@ -4,19 +4,18 @@
   inputs = {
     flake-utils.url = github:numtide/flake-utils;
     scripts.url = "github:Smaug123/flake-shell-script";
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-22.11";
+    nixpkgs.url = "github:NixOS/nixpkgs";
     extra-content = {
       url = "path:/Users/patrick/Desktop/website/extra-site-content";
       flake = false;
     };
     katex = {
       url = "github:Smaug123/KaTeX/nix";
-      inputs.nixpkgs.follows = "nixpkgs";
-      inputs.flake-utils.follows = "flake-utils";
+      # inputs.nixpkgs.follows = "nixpkgs";
     };
     images = {
       url = "git+file:/Users/patrick/Desktop/website/static-site-images";
-      inputs.nixpkgs.follows = "nixpkgs";
+      # inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
     pdfs = {
