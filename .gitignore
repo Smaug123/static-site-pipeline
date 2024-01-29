@@ -29,3 +29,4 @@ hugo/static/misc/TokyoEntrance2016/
 
 .idea/
 .profile*
+.direnv/
