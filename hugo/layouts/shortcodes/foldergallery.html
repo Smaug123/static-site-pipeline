@@ -4,6 +4,7 @@
 <div class="gallery">
   {{ $base := .Get "src" }}
   {{ $path := print "static/" (.Get "src") }}
+  {{ $galleryName := default "gallery" (.Get "galleryName") }}
 
   {{ range (readDir $path) }}
     {{- $thumbext := "-thumb" }}
@@ -13,10 +14,13 @@
     {{- $thumb := .Name | replaceRE "(\\.[^.]+)" ($thumbext | printf "%s.jpg") }}
     {{- $alttextfile := .Name | replaceRE "(\\..+)" ".md" }}
     {{- $alttext := printf "%s/%s" $path $alttextfile | os.ReadFile }}
-      <a data-fancybox="gallery" href="/{{ $base }}/{{ .Name }}">
+      <a data-fancybox="{{ $galleryName }}" data-caption="{{ $alttext }}" href="/{{ $base }}/{{ .Name }}">
           <img src="/{{ $base  }}/{{ $thumb }}" width=100 height=100 alt={{ $.Page.RenderString $alttext }}>  <br/>
       </a>
   {{- end }}
 {{ end }}
+<script>document.addEventListener('DOMContentLoaded', function() {
+    Fancybox.bind('[data-fancybox="{{ $galleryName }}"]', {});
+});</script>
 </div>
 </details>
