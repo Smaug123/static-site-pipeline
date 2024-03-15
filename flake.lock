@@ -122,10 +122,11 @@
         "scripts": "scripts_2"
       },
       "locked": {
-        "dirtyRev": "36491c1951b7f84c057e5ad7599e79496bcefb96-dirty",
-        "dirtyShortRev": "36491c1-dirty",
-        "lastModified": 1710343971,
-        "narHash": "sha256-uA81fuVvlJfobz/LcOInqDMUHv9T4LOdzsu9452Xa7Y=",
+        "lastModified": 1710529710,
+        "narHash": "sha256-kGrUJrz9p2r/mj5pKRVUM+Y4G1v7w0vWwwklfBFpcho=",
+        "ref": "refs/heads/main",
+        "rev": "e75d0f5401bf04aafc7b342dce6fc517d407bc1e",
+        "revCount": 21,
         "type": "git",
         "url": "file:/Users/patrick/Desktop/website/static-site-images"
       },
