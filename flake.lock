@@ -122,11 +122,11 @@
         "scripts": "scripts_2"
       },
       "locked": {
-        "lastModified": 1710529710,
-        "narHash": "sha256-kGrUJrz9p2r/mj5pKRVUM+Y4G1v7w0vWwwklfBFpcho=",
+        "lastModified": 1710545132,
+        "narHash": "sha256-73ISG6KO966t2gvfhLolCy9XvJbjmFiGwxjaAyD3vkg=",
         "ref": "refs/heads/main",
-        "rev": "e75d0f5401bf04aafc7b342dce6fc517d407bc1e",
-        "revCount": 21,
+        "rev": "8fcf3013c0480e3d7c4b55e2f8f5dc7afde51ade",
+        "revCount": 23,
         "type": "git",
         "url": "file:/Users/patrick/Desktop/website/static-site-images"
       },

@@ -6,6 +6,11 @@ layout: page
 sidenotes: true
 ---
 I am Patrick Stevens, a software engineer based in London, England.
+
+{{< rawhtml >}}
+<img src="/images/AboutMe/northern-lights.png" alt="Photo of me under the Northern Lights" style="max-width: 500px;">
+{{< /rawhtml >}}
+
 I completed my BA+MMath at the University of Cambridge.
 
 Social media accounts:
