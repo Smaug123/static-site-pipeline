@@ -40,8 +40,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
-*   In Praise of Shadows, by Junichiro Tanizaki
-* Building Secure and Reliable Systems, by the Google SRE team. This is genuinely a textbook, so it's quite slow going. A lot of this is *very* Google-centric, where it's assumed that everything is a microservice and any given query to a service will require hundreds of RPC calls. However, the general lessons seem to be valuable.
+* Jonathan Strange & Mr Norrell, by Susanna Clarke.
 
 # Bought and ready to read
 
@@ -80,6 +79,8 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   Building Secure and Reliable Systems, by the Google SRE team. This is genuinely a textbook, so it's quite slow going. A lot of this is *very* Google-centric, where it's assumed that everything is a microservice and any given query to a service will require hundreds of RPC calls. However, the general lessons seem to be valuable.
+*   A Handful of Dust, by Evelyn Waugh. Good Lord this is bleak. The kind of book which would definitely reward rereading; I feel like I got about a quarter of what was going on, there was so much subtext. Oddly a fun read, though!
 *   The Remains of the Day, by Kazuo Ishiguro. Short, sweet, and tragic. Simple throwaway lines become retrospectively rich in meaning as you read on. Spoiler in rot13: gur haeryvnoyr aneengbe tvirf guvf fgenatr frafr bs grafvba guebhtubhg.
 *   A Pocketful of Rye, by Agatha Christie. One of the Marples. Christie is generally excellent light reading, perhaps partly because her writing is all so familiar. This particular book I first read as an early teenager, but recently reread as part of a marathon in which we watched two adaptations and listened to a radio version; the exercise was actually quite interesting in seeing what the various adapters (and actors) chose to pull out.
 *   The Hornblower series, by CS Forester. I read some of these over and over as a child, and they bear rereading as an adult. The later books become less interesting to me, though, as Hornblower is promoted and gets further from the action.
