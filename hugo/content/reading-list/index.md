@@ -46,6 +46,8 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 *   The Attention Merchants, by Tim Wu
 *   American Gods, by Neil Gaiman
+*   84, Charing Cross Road, by Helene Hanff
+*   Impro, by Keith Johnstone
 
 # To read
 
@@ -67,9 +69,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   The Culture series, by Iain M Banks
 *   A Place of Greater Safety, by Hilary Mantel
 *   So Good They Can't Ignore You, by Cal Newport
-*   84, Charing Cross Road, by Helene Hanff
 *   Black Box Thinking, by Matthew Syed
-*   Impro, by Keith Johnstone
 
 # Read some of and then put down
 
@@ -79,6 +79,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   Permutation City, by Greg Egan. Cool book! It's interesting to think about why I find the core premise implausible, but it certainly seemed novel to me. Pretty gripping. It seems to pair quite nicely with Robin Hanson's _The Age of Em_, which would be a nonfiction accompaniment.
 *   Building Secure and Reliable Systems, by the Google SRE team. This is genuinely a textbook, so it's quite slow going. A lot of this is *very* Google-centric, where it's assumed that everything is a microservice and any given query to a service will require hundreds of RPC calls. However, the general lessons seem to be valuable.
 *   A Handful of Dust, by Evelyn Waugh. Good Lord this is bleak. The kind of book which would definitely reward rereading; I feel like I got about a quarter of what was going on, there was so much subtext. Oddly a fun read, though!
 *   The Remains of the Day, by Kazuo Ishiguro. Short, sweet, and tragic. Simple throwaway lines become retrospectively rich in meaning as you read on. Spoiler in rot13: gur haeryvnoyr aneengbe tvirf guvf fgenatr frafr bs grafvba guebhtubhg.
