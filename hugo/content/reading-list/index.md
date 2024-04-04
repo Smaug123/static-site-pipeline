@@ -24,7 +24,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   [Gödel, Escher, Bach], by Douglas Hofstadter (an incredible book on pretty much everything - possibly the most meta thing I've ever read). Revisiting it now, I realise that I already know quite a lot of the mathematical content from different sources, but then to the extent that I specialised in anything during Part III, I specialised in logic. For some reason many people don't like this book, and it is certainly very long, but decades later I still remember e.g. the Contracrostipunctus as being just mind-blowing.
 *   [Harry Potter and the Methods of Rationality][HPMoR] - it's a very long fanfic about what might happen if Harry came from a different intellectual background and if every character were actually *trying* at life. It successfully manages to find coherent explanations for many of the random inconsistencies of the original. Give it a try - if you don't like it by the time we reach Hogwarts, feel free to stop. It's got its own subreddit, of which the most pertinent post is probably [what HPMoR is about][HPMoR subreddit]. People either find HPMoR horribly dull or absolutely incredible, as far as I can tell.
 
-[Jonathan Strange & Mr Norrell](https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell)
+[Jonathan Strange & Mr Norrell]: https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell
 [Gödel, Escher, Bach]: https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 [LessWrong]: http://www.lesswrong.com
 [Cached Thoughts]: http://lesswrong.com/lw/k5/cached_thoughts/
