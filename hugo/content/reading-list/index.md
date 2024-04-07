@@ -42,12 +42,15 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
+*   Diary of a Provincial Lady, by E. M. Delafield
+
 # Bought and ready to read
 
 *   The Attention Merchants, by Tim Wu
 *   American Gods, by Neil Gaiman
 *   84, Charing Cross Road, by Helene Hanff
 *   Impro, by Keith Johnstone
+*   Piranesi, by Susanna Clarke
 
 # To read
 
@@ -70,6 +73,9 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   A Place of Greater Safety, by Hilary Mantel
 *   So Good They Can't Ignore You, by Cal Newport
 *   Black Box Thinking, by Matthew Syed
+*   True Names, by Vernor Vinge
+*   Diaspora, by Greg Egan
+*   Accelerando, by Charles Stross
 
 # Read some of and then put down
 
