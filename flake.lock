@@ -212,11 +212,11 @@
         "scripts": "scripts_3"
       },
       "locked": {
-        "lastModified": 1696190787,
-        "narHash": "sha256-bO/NInpwVefs5Iey8WVwPFnXPt/3WN7WvYXTxzLKmGQ=",
+        "lastModified": 1712591670,
+        "narHash": "sha256-mJCxLFGq4fGk74L3vC7ltwkXno1JEeA/aKWew426imk=",
         "owner": "Smaug123",
         "repo": "static-site-pdfs",
-        "rev": "a36d3025b9625cc50fc5bd2eca867eacd8a5bcb9",
+        "rev": "34f4df8719b89d56ea1ba446488a0a16835a9acb",
         "type": "github"
       },
       "original": {
