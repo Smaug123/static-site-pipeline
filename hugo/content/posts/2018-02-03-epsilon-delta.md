@@ -7,6 +7,7 @@ comments: true
 date: "2018-02-03T00:00:00Z"
 title: Infinitesimals as an idea that took a long time
 summary: Answering the question, "Which mathematical ideas took a long time to define rigorously?".
+math: true
 ---
 
 *This is my answer to the same [question posed on the Mathematics Stack Exchange](https://math.stackexchange.com/q/2633847/259262). It is therefore licenced under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
