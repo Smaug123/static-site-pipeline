@@ -8,6 +8,7 @@ comments: true
 date: "2021-03-17T00:00:00Z"
 title: Rewriting the Technical Interview, in Mathematica
 summary: "An exploration into reaching into the internals of Mathematica to natively evaluate C code."
+math: true
 ---
 
 *Cross-posted at the [G-Research official blog](https://www.gresearch.co.uk/article/rewriting-the-technical-interview-in-mathematica/).*
