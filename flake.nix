@@ -2,7 +2,7 @@
   description = "Static site builder for patrickstevens.co.uk";
 
   inputs = {
-    flake-utils.url = github:numtide/flake-utils;
+    flake-utils.url = "github:numtide/flake-utils";
     scripts.url = "github:Smaug123/flake-shell-script";
     nixpkgs.url = "github:NixOS/nixpkgs";
     extra-content = {
@@ -84,7 +84,7 @@
           mv output $out
         '';
       };
-    in rec {
+    in {
       packages = flake-utils.lib.flattenTree {
         gitAndTools = pkgs.gitAndTools;
         default = website;
