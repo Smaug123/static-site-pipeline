@@ -1,5 +1,5 @@
 ---
-lastmod: "2023-09-02T13:31:58.0000000+01:00"
+lastmod: "2024-04-17T10:31:58.0000000+01:00"
 title: My reading list
 author: patrick
 layout: page
@@ -42,7 +42,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
-*   Diary of a Provincial Lady, by E. M. Delafield
+*   Now It Can Be Told, by General Groves
 
 # Bought and ready to read
 
@@ -85,6 +85,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   Diary of a Provincial Lady, by E. M. Delafield. Hilarious. I was laughing out loud every few pages. Strong recommend. This was so like real life.
 *   [Folding Beijing](https://www.uncannymagazine.com/article/folding-beijing-2/), by Hao Jingfang. Interesting short story, although really I think it could have been half the length without losing much; the premise is not exactly complicated, and the story is really just a brief exploration of the premise.
 *   Permutation City, by Greg Egan. Cool book! It's interesting to think about why I find the core premise implausible, but it certainly seemed novel to me. Pretty gripping. It seems to pair quite nicely with Robin Hanson's _The Age of Em_, which would be a nonfiction accompaniment.
 *   Building Secure and Reliable Systems, by the Google SRE team. This is genuinely a textbook, so it's quite slow going. A lot of this is *very* Google-centric, where it's assumed that everything is a microservice and any given query to a service will require hundreds of RPC calls. However, the general lessons seem to be valuable.
