@@ -81,6 +81,10 @@ pygmentsCodefences = true
     identifier = "films"
     url = "/films"
   [[menu.main]]
+    name = "Games"
+    identifier = "games"
+    url = "/games"
+  [[menu.main]]
     name = "Lifehacks"
     identifier = "lifehacks"
     url = "/lifehacks"
