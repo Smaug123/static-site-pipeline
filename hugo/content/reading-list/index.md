@@ -43,7 +43,6 @@ This page holds a list of the books I am reading, and a list of books I have rea
 # Currently reading
 
 *   Now It Can Be Told, by General Groves
-*   Tao Te Ching, by Lao Tzu, in translation by Ursula Le Guin.
 
 # Bought and ready to read
 
@@ -75,15 +74,9 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   Diaspora, by Greg Egan
 *   Accelerando, by Charles Stross
 
-# Read some of and then put down
-
-*   [The Complete Cosmicomics](https://en.wikipedia.org/wiki/The_Complete_Cosmicomics), by Italo Calvino. Whimsical indeed, but oddly enough I started finding them rather samey after about a third of the way through. Worth reading a couple of them (no particular ones seemed better than the others to me).
-*   [Legal Systems Very Different From Ours](http://web.archive.org/web/20220806200919/http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm): it's all in the title, really. Case studies of different legal systems, by the economist David Friedman. I read the first third or so of this, and it was a very interesting set of things to think about. How can a civilisation run itself without our systems of law courts? There have been many answers through the centuries.
-*   [Extraordinary Popular Delusions and the Madness of Crowds](https://en.wikipedia.org/wiki/Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds), by Charles Mackay - nonfiction about the ways in which the crowd can get things wrong. This book is very, very long; I made it through the first half of the first volume before giving up. A pretty eye-opening book, though: Mackay's description (from the year 1841!) of the South Sea Bubble is almost indistinguishable from the recent cryptocurrency crazes, right down to an extensive list of some of the crazy companies that were eventually made illegal ("for improving the art of making soap", "for a wheel of perpetual motion", "for extracting silver from lead", "for a grand American fishery") - all very reminiscent of the various shitcoins.
-*   [Quantum Computing for the Very Curious](https://quantum.country/qcvc): essay to teach the fundamentals of quantum computing, with embedded spaced repetition cards.
-
 # Have read
 
+*   Tao Te Ching, by Lao Tzu, interpreted by Ursula Le Guin. Her poetry is *beautiful*. Not an easy read: I felt I was rushing at two hours for thirty-odd chapters to get the bare minimum of comprehension, but it's deep enough that each chapter would reward an hour of study. I'm currently going to improv classes, and this feels like it is secretly a book about improv!
 *   Piranesi, by Susanna Clarke. Wonderful. Ethereal (but in a sort of grounded way), beautiful.
 *   Impro, by Keith Johnstone. The first half of this book is very interesting, easy reading, and I suspect rather useful; I believe it's been helpful in my introductory improv lessons. (I don't know how useful it will be without practice of some sort, but I also suspect it's possible to practise without going full improv-classes.) The second half is an exploration of mask work, Commedia dell'arte, trance states, and possession, and I found that much less worth reading.
 *   Diary of a Provincial Lady, by E. M. Delafield. Hilarious. I was laughing out loud every few pages. Strong recommend. This was so like real life.
@@ -150,6 +143,13 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   [Worm] (online fiction about superheroes), by wildbow. Excellent superhero story, with characters who actually make sense and do sensible things. A huge variety of fascinating superpowers. Well worth reading, but it's very long and hard to put down, so choose your starting time well! I've scraped it into a PDF for Kindle reading, but the author has specifically requested that ebooks not be distributed, so I will only even consider giving it to you if you are personally a friend of mine.
 *   Consciousness Explained, by Daniel Dennet (explaining the Multiple Drafts view of consciousness) - very interesting book, thought-provoking, and I've absorbed some of its contents into my world-view.
 *   The Mind's I, by Douglas Hofstadter and Daniel Dennet (various musings on consciousness and the nature of the self) - this is a collection of pieces by other people, with commentary by Hofstadter and Dennet, which wasn't quite what I expected. I'd read several of the pieces before, although Hofstadter sparkled just as he usually does. I got bored after about the tenth excerpt, but certainly up to the eighth my attention was held.
+
+# Read some of and then put down
+
+*   [The Complete Cosmicomics](https://en.wikipedia.org/wiki/The_Complete_Cosmicomics), by Italo Calvino. Whimsical indeed, but oddly enough I started finding them rather samey after about a third of the way through. Worth reading a couple of them (no particular ones seemed better than the others to me).
+*   [Legal Systems Very Different From Ours](http://web.archive.org/web/20220806200919/http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm): it's all in the title, really. Case studies of different legal systems, by the economist David Friedman. I read the first third or so of this, and it was a very interesting set of things to think about. How can a civilisation run itself without our systems of law courts? There have been many answers through the centuries.
+*   [Extraordinary Popular Delusions and the Madness of Crowds](https://en.wikipedia.org/wiki/Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds), by Charles Mackay - nonfiction about the ways in which the crowd can get things wrong. This book is very, very long; I made it through the first half of the first volume before giving up. A pretty eye-opening book, though: Mackay's description (from the year 1841!) of the South Sea Bubble is almost indistinguishable from the recent cryptocurrency crazes, right down to an extensive list of some of the crazy companies that were eventually made illegal ("for improving the art of making soap", "for a wheel of perpetual motion", "for extracting silver from lead", "for a grand American fishery") - all very reminiscent of the various shitcoins.
+*   [Quantum Computing for the Very Curious](https://quantum.country/qcvc): essay to teach the fundamentals of quantum computing, with embedded spaced repetition cards.
 
  [1]: https://en.wikipedia.org/wiki/Flow_%28psychology%29 "Flow Wikipedia page"
  [Worm]: https://parahumans.wordpress.com/ "Worm (fiction)"
