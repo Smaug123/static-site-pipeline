@@ -7,6 +7,8 @@ layout: page
 
 This page holds a list of films I have watched, spoiler-free, starting from 9th January 2015.
 
+*  [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/): This is one of my favourite films. In general I find Wes Anderson a bit hit-or-miss, but this film is sublime. Excellent characterisation, quick deadpan wit. Ralph Fiennes is just glorious here.
+
 *  [Argylle](https://www.imdb.com/title/tt15009428/): Sadly disappointing. This film was at least twice as long as it should have been. A good version would have been a short funny pastiche; what we actually got was a long boring film punctuated by moments of glorious whimsy.
 
 *  [A Haunting in Venice](https://www.imdb.com/title/tt22687790/): Well, I really enjoyed this, and I think I was surrounded by heathens in the cinema. I successfully called precisely none of the plot, and it all tied up so neatly. Ariadne Oliver will always be Zoë Wanamaker to me, but I believed Kenneth Branagh. Top-tier Poirot.
