@@ -42,7 +42,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
-*   Now It Can Be Told, by General Groves
+*   Accelerando, by Charles Stross
 
 # Bought and ready to read
 
@@ -72,12 +72,12 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   Black Box Thinking, by Matthew Syed
 *   True Names, by Vernor Vinge
 *   Diaspora, by Greg Egan
-*   Accelerando, by Charles Stross
 
 # Have read
 
+*   Now It Can Be Told, by General Groves. I wasn't as taken with this book as I was with _The Making of the Atomic Bomb_; this book contained a bunch more individual callouts and "this particular person did a brilliant job" than are really necessary fifty years later. Still a bunch of excellent quotes, e.g. around how the US government paid him $35mm personally to get around procurement rules; _that's_ how you really try to win when you have trust in your employees!
 *   Red Side Story, by Jasper Fforde (sequel to Shades of Grey). Solidly as I expected it to be; fairly enjoyable. Plot was largely predictable.
-*   [Planecrash](https://www.projectlawful.com/). It turns out that self-insert sex fiction is not actually much better if you are self-aware about it. There's some excellent readable story in here, but you have to wade through hours and hours of sex and sex-politics to find it. Absolutely not worth reading from start to finish; just find someone to link the "dath ilan society description and basic coordination classes" highlights.
+*   [Planecrash](https://www.projectlawful.com/). It turns out that self-insert sex fiction is not actually much better if you are self-aware about it. There's some excellent readable story in here, but you have to wade through hours and hours of sex and sex-politics to find it. Absolutely not worth reading from start to finish; just find someone to link the "dath ilan society description and basic coordination classes" highlights. These authors *really* need an editor; the work is literally at least 10x too long.
 *   Tao Te Ching, by Lao Tzu, interpreted by Ursula Le Guin. Her poetry is *beautiful*. Not an easy read: I felt I was rushing at two hours for thirty-odd chapters to get the bare minimum of comprehension, but it's deep enough that each chapter would reward an hour of study. I'm currently going to improv classes, and this feels like it is secretly a book about improv!
 *   Piranesi, by Susanna Clarke. Wonderful. Ethereal (but in a sort of grounded way), beautiful.
 *   Impro, by Keith Johnstone. The first half of this book is very interesting, easy reading, and I suspect rather useful; I believe it's been helpful in my introductory improv lessons. (I don't know how useful it will be without practice of some sort, but I also suspect it's possible to practise without going full improv-classes.) The second half is an exploration of mask work, Commedia dell'arte, trance states, and possession, and I found that much less worth reading.
