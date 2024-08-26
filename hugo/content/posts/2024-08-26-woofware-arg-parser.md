@@ -1,9 +1,9 @@
 ---
-lastmod: "2024-08-26T12:26:00.0000000+00:00"
+lastmod: "2024-08-26T12:26:00.0000000+01:00"
 author: patrick
 categories:
 - uncategorized
-date: "2024-08-26T12:26:00.0000000+00:00"
+date: "2024-08-26T12:26:00.0000000+01:00"
 title: WoofWare.Myriad.Plugins learns to parse args
 summary: "My F# source generators have some new features, including an argument parser."
 ---
