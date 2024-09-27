@@ -1,5 +1,5 @@
 ---
-lastmod: "2024-04-17T10:31:58.0000000+01:00"
+lastmod: "2024-09-27T19:31:58.0000000+01:00"
 title: My reading list
 author: patrick
 layout: page
@@ -42,7 +42,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
-*   Accelerando, by Charles Stross
+*   Slaughterhouse Five, by Kurt Vonnegut (depressing fiction)
 
 # Bought and ready to read
 
@@ -59,7 +59,6 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   Linear Algebra Done Right, by Sheldon Axler (non-fiction, apparently the definitive textbook on linear algebra)
 *   Reinventing Discovery, by Michael Nielsen (non-fiction: how modern-day collaboration could remake science)
 *   The Strategy of Conflict, by Tom Schelling (book about game theory by a professional game theorist)
-*   Slaughterhouse Five, by Kurt Vonnegut (depressing fiction)
 *   The Quincunx, by Charles Palliser (Wilkie Collins-esque Dickensian fiction)
 *   Genesis, by Bernard Beckett (future ?dystopian fiction)
 *   Small Gods, by Terry Pratchett (fiction)
@@ -75,12 +74,14 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   Accelerando, by Charles Stross. Weird book, which I guess is the point. I had to struggle through the first few decades, because I found the style very offputting. (Even later, the gratuitous use of jargon like "ackles": I know what an [ACL](https://en.wikipedia.org/wiki/Access-control_list) is, and perhaps such words will indeed be common in the future, but it really felt like the author was "just showing off" some basic computing knowledge.) The general idea was pretty cool, though!
+*   Red Side Story, by Jasper Fforde, the second in the Shades of Grey series. I'm afraid I didn't enjoy this as much as the first book. There's a bunch of gripping worldbuilding here, but the first book was full of endearing naïvité from all characters, and this one was more "serious characters who happen to be in a whimsical setting".
 *   Now It Can Be Told, by General Groves. I wasn't as taken with this book as I was with _The Making of the Atomic Bomb_; this book contained a bunch more individual callouts and "this particular person did a brilliant job" than are really necessary fifty years later. Still a bunch of excellent quotes, e.g. around how the US government paid him $35mm personally to get around procurement rules; _that's_ how you really try to win when you have trust in your employees!
 *   Red Side Story, by Jasper Fforde (sequel to Shades of Grey). Solidly as I expected it to be; fairly enjoyable. Plot was largely predictable.
 *   [Planecrash](https://www.projectlawful.com/). It turns out that self-insert sex fiction is not actually much better if you are self-aware about it. There's some excellent readable story in here, but you have to wade through hours and hours of sex and sex-politics to find it. Absolutely not worth reading from start to finish; just find someone to link the "dath ilan society description and basic coordination classes" highlights. These authors *really* need an editor; the work is literally at least 10x too long.
 *   Tao Te Ching, by Lao Tzu, interpreted by Ursula Le Guin. Her poetry is *beautiful*. Not an easy read: I felt I was rushing at two hours for thirty-odd chapters to get the bare minimum of comprehension, but it's deep enough that each chapter would reward an hour of study. I'm currently going to improv classes, and this feels like it is secretly a book about improv!
 *   Piranesi, by Susanna Clarke. Wonderful. Ethereal (but in a sort of grounded way), beautiful.
-*   Impro, by Keith Johnstone. The first half of this book is very interesting, easy reading, and I suspect rather useful; I believe it's been helpful in my introductory improv lessons. (I don't know how useful it will be without practice of some sort, but I also suspect it's possible to practise without going full improv-classes.) The second half is an exploration of mask work, Commedia dell'arte, trance states, and possession, and I found that much less worth reading.
+*   Impro, by Keith Johnstone. The first half of this book is very interesting, easy reading, and I suspect rather useful; I believe it's been helpful in my introductory improv lessons. (I don't know how useful it will be without practice of some sort, but I also suspect it's possible to practise without going full improv-classes.) The second half is an exploration of mask work, Commedia dell'arte, trance states, and possession, and I found that much less interesting; the first half captured me, and the second half did not.
 *   Diary of a Provincial Lady, by E. M. Delafield. Hilarious. I was laughing out loud every few pages. Strong recommend. This was so like real life.
 *   [Folding Beijing](https://www.uncannymagazine.com/article/folding-beijing-2/), by Hao Jingfang. Interesting short story, although really I think it could have been half the length without losing much; the premise is not exactly complicated, and the story is really just a brief exploration of the premise.
 *   Permutation City, by Greg Egan. Cool book! It's interesting to think about why I find the core premise implausible, but it certainly seemed novel to me. Pretty gripping. It seems to pair quite nicely with Robin Hanson's _The Age of Em_, which would be a nonfiction accompaniment.
@@ -88,7 +89,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   A Handful of Dust, by Evelyn Waugh. Good Lord this is bleak. The kind of book which would definitely reward rereading; I feel like I got about a quarter of what was going on, there was so much subtext. Oddly a fun read, though!
 *   The Remains of the Day, by Kazuo Ishiguro. Short, sweet, and tragic. Simple throwaway lines become retrospectively rich in meaning as you read on. Spoiler in rot13: gur haeryvnoyr aneengbe tvirf guvf fgenatr frafr bs grafvba guebhtubhg.
 *   A Pocketful of Rye, by Agatha Christie. One of the Marples. Christie is generally excellent light reading, perhaps partly because her writing is all so familiar. This particular book I first read as an early teenager, but recently reread as part of a marathon in which we watched two adaptations and listened to a radio version; the exercise was actually quite interesting in seeing what the various adapters (and actors) chose to pull out.
-*   The Hornblower series, by CS Forester. I read some of these over and over as a child, and they bear rereading as an adult. The later books become less interesting to me, though, as Hornblower is promoted and gets further from the action.
+*   The Hornblower series, by CS Forester. I read some of these over and over as a child, and they bear rereading as an adult for some naval action from the point of view of a competent man in generally miserable circumstances. The later books become less interesting to me, though, as Hornblower is promoted and gets further from the action.
 *   Station Eleven, by Emily St. John Mandel.
 *   Sea of Tranquility, by Emily St. John Mandel. Short and enjoyable mystery book set across pretty large tracts of space and time. I agree with a GoodReads reviewer, though, that Cloud Atlas does a very similar thing but much better.
 *   Cloud Atlas, by David Mitchell. Beautiful book. Each story is gripping in its own way. Imaginative.
