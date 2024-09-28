@@ -13,3 +13,6 @@ http://www.patrickstevens.co.uk/wordpress/archives/474
 http://www.patrickstevens.co.uk/wordpress/archives/584
 https://www.patrickstevens.co.uk/posts/2020-10-23-anki-learning/
 https://www.patrickstevens.co.uk/sequentially-compact-iff-compact/
+http://patrickstevens.co.uk/mathematical%20summary/2014/12/19/matrix-puzzle.html
+https://www.patrickstevens.co.uk/posts/2024-07-25-lob-theorem/
+https://patrickstevens.co.uk/cauchy-schwarz-proof/

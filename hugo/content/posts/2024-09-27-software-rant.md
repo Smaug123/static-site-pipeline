@@ -8,7 +8,7 @@ title: Unhinged rant about software
 summary: "Modern software practices and their sadness."
 ---
 
-*Epistemic statement: wail of anguish*
+*Epistemic status: wail of anguish*
 
 I've given this rant twice recently, so will unwisely write it down to avoid giving it a third time.
 
