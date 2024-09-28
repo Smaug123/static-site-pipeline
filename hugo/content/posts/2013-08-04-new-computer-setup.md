@@ -8,6 +8,7 @@ date: "2013-08-04T00:00:00Z"
 aliases:
 - /uncategorized/new-computer-setup/
 - /new-computer-setup/
+- /wordpress/archives/36
 title: New computer setup
 ---
 

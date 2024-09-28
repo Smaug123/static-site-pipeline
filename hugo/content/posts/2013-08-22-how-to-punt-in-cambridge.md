@@ -8,6 +8,7 @@ date: "2013-08-22T00:00:00Z"
 aliases:
 - /uncategorized/how-to-punt-in-cambridge/
 - /how-to-punt-in-cambridge/
+- /wordpress/archives/345/
 title: How to punt in Cambridge
 ---
 [When in Cambridge][1]…

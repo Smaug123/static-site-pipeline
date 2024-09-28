@@ -10,6 +10,7 @@ math: true
 aliases:
 - /mathematical_summary/proof_discovery/sequentially-compact-iff-compact/
 - /sequentially-compact-iff-compact/
+- /wordpress/archives/620/
 title: Sequentially compact iff compact
 ---
 [Prof Körner][1] told us during the [IB Metric and Topological Spaces][2] course that the real meat of the course (indeed, its hardest theorem) was "a metric space is sequentially compact iff it is compact". At the moment, all I remember of this result is that one direction requires Lebesgue's lemma (whose statement I don't remember) and that the other direction is quite easy. I'm going to try and discover a proof - I'll be honest when I have to look things up.

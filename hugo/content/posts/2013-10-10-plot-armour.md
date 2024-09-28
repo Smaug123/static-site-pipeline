@@ -8,6 +8,7 @@ date: "2013-10-10T00:00:00Z"
 aliases:
 - /creative/plot-armour/
 - /plot-armour/
+- /wordpress/archives/445/
 title: Plot Armour
 ---
 *Wherein I dabble in parodic fiction. The title refers to the TV Tropes page on [Plot Armour][1], but don't follow that link unless you first resolve not to click on any links on that page. TV Tropes is the hardest extant website from which to escape.*

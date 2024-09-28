@@ -10,6 +10,8 @@ math: true
 aliases:
 - /mathematical_summary/how-to-do-analysis-questions/
 - /how-to-do-analysis-questions/
+- /archives/474/
+- /wordpress/archives/474/
 title: How to do Analysis questions
 ---
 This post is for posterity, made shortly after [Dr Paul Russell][1] lectured Analysis II in Part IB of the Maths Tripos at Cambridge. In particular, he demonstrated a way of doing certain basic questions. It may be useful to people who are only just starting the study of analysis and/or who are doing example sheets in it.

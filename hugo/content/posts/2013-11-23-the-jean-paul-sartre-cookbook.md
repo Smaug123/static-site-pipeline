@@ -7,6 +7,7 @@ comments: true
 date: "2013-11-23T00:00:00Z"
 aliases:
 - uncategorized/the-jean-paul-sartre-cookbook/
+- /wordpress/archives/506/
 title: The Jean-Paul Sartre Cookbook
 ---
 > Many thanks to the [Guru Bursill-Hall][1] for bringing this tract to my attention through his weekly History of Maths bulletins. It was originally written in 1987 by Marty Smith, according to the Internet.

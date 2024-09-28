@@ -9,6 +9,7 @@ math: true
 aliases:
 - /mathematical_summary/proof-that-symmetric-matrices-are-diagonalisable/
 - /proof-that-symmetric-matrices-are-diagonalisable/
+- /wordpress/archives/658/
 title: Proof that symmetric matrices are diagonalisable
 ---
 This comes up quite frequently, but I've been stuck for an easy memory-friendly way to do this. I trawled through the 1A Vectors and Matrices course notes, and found the following mechanical proof. (It's not a discovery-proof - I looked it up.)

@@ -8,6 +8,7 @@ date: "2013-10-13T00:00:00Z"
 aliases:
 - /psychology/training-away-mental-bias/
 - /training-away-mental-bias/
+- /wordpress/archives/455
 title: Training away mental bias
 ---
 *In which I recount an experiment I have been performing. Please be aware that in this article I am in "[meaning what I say][1]" mode.*

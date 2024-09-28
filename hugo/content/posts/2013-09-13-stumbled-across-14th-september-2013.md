@@ -8,6 +8,7 @@ date: "2013-09-13T00:00:00Z"
 aliases:
 - /stumbled_across/stumbled-across-14th-september-2013/
 - /stumbled-across-14th-september-2013/
+- /wordpress/archives/362/
 title: Stumbled across 14th September 2013
 ---
 *  On the merits of silence (I wholeheartedly agree): <http://www.nytimes.com/2013/08/25/opinion/sunday/im-thinking-please-be-quiet.html>

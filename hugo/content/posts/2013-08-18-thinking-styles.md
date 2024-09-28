@@ -9,6 +9,7 @@ math: true
 aliases:
 - /psychology/thinking-styles/
 - /thinking-styles/
+- /wordpress/archives/335/
 title: Thinking styles
 ---
 All the way back into primary school (ages 4 to 11 years old, in case a non-Brit is reading this), we have been told repeatedly that "people learn things in different ways". There were two years in primary school when I had a teacher who was very into [Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats) (leading to the worst outbreak of headlice I've ever encountered) and [mind maps](https://en.wikipedia.org/wiki/Mind_map). I never understood mind maps, and whenever we were told to create a mind map, I'd make mine as linear and boxy as possible, out of simple frustration with the pointless task of making a picture of something that I already had perfectly well-set-out in my mind. I quickly learnt to correlate "making a mind map" with "being slow and inefficient at thinking". (This was back when my memory was still exceptionally good, so I wasn't really learning much at school - having read, and therefore memorised, a good children's encyclopaedia was enough for me - and hence relative to me, pretty much everyone else was slow and inefficient, because I'd already learnt the material.)

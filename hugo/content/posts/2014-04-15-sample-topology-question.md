@@ -10,6 +10,7 @@ math: true
 aliases:
 - /mathematical_summary/sample-topology-question/
 - /sample-topology-question/
+- /wordpress/archives/600/
 title: Sample topology question
 ---
 As part of the recent series on how I approach maths problems, I give another one here (question 14 on the Maths Tripos IB 2007 paper 4). The question is:

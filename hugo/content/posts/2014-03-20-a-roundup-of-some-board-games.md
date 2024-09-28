@@ -8,6 +8,7 @@ date: "2014-03-20T00:00:00Z"
 aliases:
 - /uncategorized/a-roundup-of-some-board-games/
 - /a-roundup-of-some-board-games/
+- /wordpress/archives/576/
 title: A roundup of some board games
 ---
 It has been commented to me that it's quite hard to find out (on the Internet) what different games involve. For instance, [Agricola][1] is a game about farming (and that's easy to find out), but what you actually do while playing it is not easy to discover. Here, then, is a brief overview of some games.
