@@ -9,6 +9,7 @@ math: true
 aliases:
 - /mathematical_summary/markov-chain-card-trick/
 - /markov-chain-card-trick/
+- /wordpress/archives/500/
 title: Markov Chain card trick
 ---
 In my latest lecture on [Markov Chains][1] in Part IB of the Mathematical Tripos, our lecturer showed us a very nice little application of the theorem that "if a discrete-time chain is aperiodic, irreducible and positive-recurrent, then there is an invariant distribution to which the chain tends as time increases". In particular, let \\(X\\) be a Markov chain on a state space consisting of "the value of a card revealed from a deck of cards", where aces count 1 and picture cards count 10. Let \\(P\\) be randomly chosen from the range \\(1 \dots 5\\), and let \\(X_0 = P\\). Proceed as follows: define \\(X_n\\) as "the value of the \\(\sum_{i=0}^{n-1} X_i\\)-th card". Stop when the newest \\(X_n\\) would be greater than \\(52\\).

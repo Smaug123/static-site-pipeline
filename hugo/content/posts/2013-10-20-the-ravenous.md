@@ -8,6 +8,7 @@ date: "2013-10-20T00:00:00Z"
 aliases:
 - /creative/the-ravenous/
 - /the-ravenous/
+- /wordpress/archives/462/
 title: The Ravenous
 sidenotes: true
 ---

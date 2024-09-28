@@ -8,6 +8,7 @@ date: "2013-08-21T00:00:00Z"
 aliases:
 - /psychology/flow/
 - /my-experiences-with-flow/
+- /wordpress/archives/326/
 title: My experiences with flow
 ---
 I'm in the middle of reading [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)), by [Mihály Csíkszentmihályi][1], and so far, I love it. It describes the "[flow state](https://en.wikipedia.org/wiki/Flow_%28psychology%29)" of consciousness, that state of "everything is irrelevant except for the task at hand" in which time flies past without your noticing, and you don't notice hunger or thirst or people moving around you. Flow can be induced when performing a difficult task which lies within your abilities, where immediate feedback is provided. I, at least, feel characteristically exhausted after coming out of a long period of flow - but it's a good kind of mental exhaustion, much as the tiredness after a long swim is a good kind of physical exhaustion (in contrast to tiredness-after-a-long-day-of-doing-nothing, which feels sort of lazier and unwholesome). The Wikipedia page is a good enough explanation of flow that I will not describe it further here.

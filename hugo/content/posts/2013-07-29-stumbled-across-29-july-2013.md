@@ -8,6 +8,7 @@ date: "2013-07-29T00:00:00Z"
 aliases:
 - /stumbled_across/stumbled-across-2/
 - /stumbled-across-29-july-2013/
+- /wordpress/archives/241/
 title: Stumbled across 29th July 2013
 ---
 *   Hehe: <http://www.pixartheory.com/>

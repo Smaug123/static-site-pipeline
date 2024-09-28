@@ -9,6 +9,7 @@ math: true
 aliases:
 - /uncategorized/useful-conformal-mappings/
 - /useful-conformal-mappings/
+- /wordpress/archives/594/
 title: Useful conformal mappings
 ---
 This post is to be a list of conformal mappings, so that I can get better at answering questions like "Find a conformal mapping from \<this domain\> to \<this domain\>". The following Mathematica code is rough-and-ready, but it is designed to demonstrate where a given region goes under a given transformation.

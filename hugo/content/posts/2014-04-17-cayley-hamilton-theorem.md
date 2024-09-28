@@ -9,6 +9,7 @@ math: true
 aliases:
 - /mathematical_summary/cayley-hamilton-theorem/
 - /cayley-hamilton-theorem/
+- /wordpress/archives/606/
 title: Cayley-Hamilton theorem
 ---
 This is to detail a much easier proof (at least, I find it so) of [Cayley-Hamilton][1] than the ones which appear on the Wikipedia page. It only applies in the case of complex vector spaces; most of the post is taken up with a proof of a lemma about complex matrices that is very useful in many contexts.

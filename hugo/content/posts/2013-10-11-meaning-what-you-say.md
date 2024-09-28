@@ -8,6 +8,7 @@ date: "2013-10-11T00:00:00Z"
 aliases:
 - /uncategorized/meaning-what-you-say/
 - /meaning-what-you-say/
+- /wordpress/archives/450
 title: Meaning what you say
 ---
 In conversation with (say, for the purposes of propagating a sterotype) humanities students, I am often struck by how imprecisely language is used, and how much confusion arises therefrom. A case in point:

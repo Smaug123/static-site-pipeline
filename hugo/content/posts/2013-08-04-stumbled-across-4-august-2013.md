@@ -8,6 +8,7 @@ date: "2013-08-04T00:00:00Z"
 aliases:
 - /stumbled_across/stumbled-across-3/
 - /stumbled-across-4-august-2013/
+- /wordpress/archives/267/
 title: Stumbled across 4th August 2013
 ---
 *   An ad developer has misgivings: <http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat>

@@ -8,6 +8,7 @@ date: "2013-08-11T00:00:00Z"
 aliases:
 - /stumbled_across/stumbled-across-11th-august-2013/
 - /stumbled-across-11th-august-2013/
+- /wordpress/archives/301/
 title: Stumbled across 11th August 2013
 ---
 *   A thousand times this (EDIT 2022: the link is dead and I have no idea what I was referring to).

@@ -10,6 +10,8 @@ math: true
 aliases:
 - /mathematical_summary/proof_discovery/how-to-discover-the-contraction-mapping-theorem/
 - /how-to-discover-the-contraction-mapping-theorem/
+- /archives/584/
+- /wordpress/archives/584/
 title: How to discover the Contraction Mapping Theorem
 ---
 A little while ago I set myself the exercise of stating and proving the [Contraction Mapping Theorem][1]. It turned out that I mis-stated it in three different aspects ("contraction", "non-empty" and "complete"), but I was able to correct the statement because there were several points in the proof where it was very natural to do a certain thing (and where that thing turned out to rely on a correct statement of the theorem).

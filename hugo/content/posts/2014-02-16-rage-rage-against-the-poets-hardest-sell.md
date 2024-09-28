@@ -8,6 +8,7 @@ date: "2014-02-16T00:00:00Z"
 aliases:
 - /creative/rage-rage-against-the-poets-hardest-sell/
 - /rage-rage-against-the-poets-hardest-sell/
+- /wordpress/archives/563/
 title: Rage, rage against the poet’s hardest sell
 ---
 I feel that I can write a sonnet well.  

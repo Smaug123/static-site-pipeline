@@ -8,6 +8,7 @@ date: "2013-08-24T00:00:00Z"
 aliases:
 - /stumbled_across/stumbled-across-4/
 - /stumbled-across-24-august-2013/
+- /wordpress/archives/329/
 title: Stumbled across 24th August 2013
 ---
 *   The much-vaunted Hyperloop looks really cool, if it could ever be built: <https://arstechnica.com/business/2013/08/hyperloop-a-theoretical-760-mph-transit-system-made-of-sun-air-and-magnets/>

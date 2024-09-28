@@ -8,6 +8,7 @@ date: "2013-07-30T00:00:00Z"
 aliases:
 - /uncategorized/on-to-do-lists-as-direction-in-life/
 - /on-to-do-lists-as-direction-in-life/
+- /wordpress/archives/268/
 title: On to-do lists as direction in life
 ---
 [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) has gathered something of a [cult following](http://web.archive.org/web/20130428015707/http://www.wired.com/techbiz/people/magazine/15-10/ff_allen? "Wired article on GTD") [archived due to [link rot][1]] since its inception. As a way of getting things done, it's pretty good - separate tasks out into small bits on your to-do list so that you have mental room free to consider the bigger picture. However, there's a certain aspect of to-do lists that I've not really seen mentioned before, and which I find to be really helpful.

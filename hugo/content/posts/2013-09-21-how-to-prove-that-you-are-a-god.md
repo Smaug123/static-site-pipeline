@@ -8,6 +8,7 @@ date: "2013-09-21T00:00:00Z"
 aliases:
 - /uncategorized/how-to-prove-that-you-are-a-god/
 - /how-to-prove-that-you-are-a-god/
+- /wordpress/archives/434/
 title: How to prove that you are a god
 ---
 I came across an interesting question while reading the blog of [Scott Aaronson][1] today. The question was as follows:

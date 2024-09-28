@@ -10,6 +10,7 @@ math: true
 aliases:
 - /mathematical_summary/proof_discovery/discovering-a-proof-of-sylvesters-law-of-inertia/
 - /discovering-a-proof-of-sylvesters-law-of-inertia/
+- /wordpress/archives/591/
 title: Discovering a proof of Sylvester's Law of Inertia
 ---
 *This is part of what has become a series on discovering some fairly basic mathematical results, and/or discovering their proofs. It's mostly intended so that I start finding the results intuitive - having once found a proof myself, I hope to be able to reproduce it without too much effort in the exam.*

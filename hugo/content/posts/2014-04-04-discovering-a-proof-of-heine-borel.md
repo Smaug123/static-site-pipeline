@@ -10,6 +10,7 @@ math: true
 aliases:
 - /mathematical_summary/proof_discovery/discovering-a-proof-of-heine-borel/
 - /discovering-a-proof-of-heine-borel/
+- /wordpress/archives/589/
 title: Discovering a proof of Heine-Borel
 ---
 I'm running through my Analysis proofs, trying to work out which ones are genuinely hard and which follow straightforwardly from my general knowledge base. I don't find the [Heine-Borel Theorem][1] "easy" enough that I can even forget its statement and still prove it (like [I can with the Contraction Mapping Theorem][2]), but it turns out to be easy in the sense that it follows simply from all the theorems I already know. Here, then, is my attempt to discover a proof of the theorem, using as a guide all the results I know but can't necessarily prove without lots of effort.

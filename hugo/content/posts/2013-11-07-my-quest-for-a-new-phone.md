@@ -8,6 +8,7 @@ date: "2013-11-07T00:00:00Z"
 aliases:
 - /uncategorized/my-quest-for-a-new-phone/
 - /my-quest-for-a-new-phone/
+- /wordpress/archives/486/
 title: My quest for a new phone
 ---
 *This post is unfinished, and may never be finished - I have decided that the Nexus 5 is sufficiently cheap, nice-looking and future-proof to outweigh the boredom of continuing the research here, especially given that such research by necessity has a very short lifespan. I am one of those people who hates shopping with a fiery passion.*
