@@ -42,13 +42,14 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
-*   Slaughterhouse Five, by Kurt Vonnegut (depressing fiction)
+*   A Fire Upon The Deep, by Vernor Vinge
 
 # Bought and ready to read
 
 *   The Attention Merchants, by Tim Wu
 *   American Gods, by Neil Gaiman
 *   84, Charing Cross Road, by Helene Hanff
+*   High Output Management, by Andy Grove
 
 # To read
 
@@ -74,6 +75,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   Slaughterhouse Five, by Kurt Vonnegut. Indeed pretty depressing! I actually found this quite gripping, like you were really getting to know the protagonist, which I wasn't expecting. Felt like it did a good job of portraying a broken numbed soldier.
 *   Accelerando, by Charles Stross. Weird book, which I guess is the point. I had to struggle through the first few decades, because I found the style very offputting. (Even later, the gratuitous use of jargon like "ackles": I know what an [ACL](https://en.wikipedia.org/wiki/Access-control_list) is, and perhaps such words will indeed be common in the future, but it really felt like the author was "just showing off" some basic computing knowledge.) The general idea was pretty cool, though!
 *   Red Side Story, by Jasper Fforde, the second in the Shades of Grey series. I'm afraid I didn't enjoy this as much as the first book. There's a bunch of gripping worldbuilding here, but the first book was full of endearing naïvité from all characters, and this one was more "serious characters who happen to be in a whimsical setting".
 *   Now It Can Be Told, by General Groves. I wasn't as taken with this book as I was with _The Making of the Atomic Bomb_; this book contained a bunch more individual callouts and "this particular person did a brilliant job" than are really necessary fifty years later. Still a bunch of excellent quotes, e.g. around how the US government paid him $35mm personally to get around procurement rules; _that's_ how you really try to win when you have trust in your employees!
