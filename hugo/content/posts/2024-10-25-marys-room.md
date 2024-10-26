@@ -21,7 +21,7 @@ Similarly, putting your world-simulating engine into a position where it simulat
 It's just that the same existing knowledge has been assigned a first-class primitive in the underlying mental architecture, so it's much easier to access.
 
 Analogously to how you made it easier to think about a concept by giving it a word, your brain made it easier to think about redness by assigning it a primitive as soon as it first encountered something red.
-(Or possibly that primitive was already assigned and waiting to be activated; perhaps redness is hard-coded specifically in the brain. If you think redness might be hard-coded, consider the smell of ammonia or similar instead, and subtitute that learned quale wherever I talk about redness.) 
+(Or possibly that primitive was already assigned and waiting to be activated; perhaps redness is hard-coded specifically in the brain. If you think redness might be hard-coded, consider the smell of ammonia or similar instead, and substitute that learned quale wherever I talk about redness.) 
 
 That primitive "always existed" in some mathematical sense, latent in the structure of the simulator, but it was previously not accessed or used.
 
