@@ -19,6 +19,14 @@
                 </a>
             </td>
         {{ end }}
+            <td>
+            <!-- RSS -->
+            {{ with .OutputFormats.Get "rss" -}}
+                <a href="{{ printf .Permalink }}" aria-label="RSS feed" rel="me">
+                  <span class="fas fa-rss fa-2x" aria-hidden="true">&nbsp;</span>
+                </a>
+            {{ end -}}
+            </td>
         </tr>
     </table>
     <div class="footer">
