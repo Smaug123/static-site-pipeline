@@ -56,7 +56,7 @@ To discover checks along both a vertical and a diagonal, it's necessary to move 
 * Castling moves two pieces, but we already know the black king has moved, so it wasn't Black castling.
 * A standard capture does move two pieces, but it leaves the capturing piece in the same place as the captured piece, so it can't reveal two checks.
 * Moving a piece without capturing moves one piece, and can only reveal one check.
-* Promoting a pawn could conceivably have had this effect if this were all happening on the back rank: a pawn promoting to a knight can both discover a check from a bishop and cause check with the new knight. But both the pieces which are giving check are in the middle of the board, with neither on the back rank.
+* Promoting a pawn could conceivably have had this effect if this were all happening on the back rank: a pawn promoting to a knight can both discover a check from a rook and cause check with the new knight. But both the pieces which are giving check are in the middle of the board, with neither on the back rank.
 
 There is exactly one other kind of move in the game: capturing en passant.
 This can clear a file and a diagonal at the same time.

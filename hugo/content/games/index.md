@@ -11,10 +11,12 @@ This page holds an incomplete list of games I have played.
 
 ## In progress
 
-* Chants of Sennaar. An extremely impressive 81% of players have the Steam achievement for leaving the first game area, which I think tells you how gripping this game is. It's basically a particular kind of IQ test, but it's really fun. Reminiscent of _Return of the Obra Dinn_.
+* ibb and obb. Fun two-player co-op, neat and slightly mind-bending physics.
+* It Takes Two. Amusing but not worth the price, I think. This is more like a constant stream of "oh, what funny one-off mechanic have they implemented next".
 
 ## Not in progress
 
+* Chants of Sennaar. An extremely impressive 81% of players have the Steam achievement for leaving the first game area, which I think tells you how gripping this game is. It's basically a particular kind of IQ test, but it's really fun. Reminiscent of _Return of the Obra Dinn_. I could have done with a little more variation in the languages; there are a few neat bits, but there was a broad language design space they mostly didn't touch.
 * Baldur's Gate 3 (hundreds of hours). Glorious game, aesthetically beautiful, absolutely gigantic amount of content, and sometimes succeeds at making you empathise with the characters. Having played this, I wouldn't really want to go back to playing a DnD-style RPG any other way: all the bookkeeping happens in the background.
 * Factorio, and Dyson Sphere Program (both hundreds of hours). Grouped together because they are basically the same game. I have banned myself from playing this genre of game (I gave myself RSI from it for a while). Between the two, DSP is much prettier and somewhat more forgiving, but also it has the annoying mechanic of laying your factory out on spheres. "Cannot place blueprint across tropic lines" just feels bad; you really want your factory layout not to depend on where it is situated.
 * Outer Wilds (about half an hour). Everyone raves about this game, but it makes me travel-sick very fast. No further comment.
