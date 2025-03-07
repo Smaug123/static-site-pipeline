@@ -12,7 +12,7 @@ Any remaining decks here are CC-BY-SA.
 
 *   [Geography] (the deck has a misleading name; it's actually a general Geography deck). You can filter out the `london-tube` tag if you like, or `world-capitals`, or `american-geography`.
 
-<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB" rel="license"><img style="border-width: 0;" alt="Creative Commons Licence" src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" /></a>
-This work by <a href="/anki-decks" rel="cc:attributionURL">Patrick Stevens</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB" rel="license">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+[![Creative Commons Licence](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB)
+This work by [Patrick Stevens](/anki-decks) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB).
 
 [Geography]: /AnkiDecks/CapitalsOfTheWorld.apkg
