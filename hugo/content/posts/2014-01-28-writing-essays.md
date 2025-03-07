@@ -24,7 +24,7 @@ The contents of soil
 
 *  we eat fungi
 
-* *  we don't just eat mushrooms, we also are starting to eat <a title="Quorn Wikipedia page" href="https://en.wikipedia.org/wiki/Quorn">Quorn</a> etc
+* *  we don't just eat mushrooms, we also are starting to eat [Quorn](https://en.wikipedia.org/wiki/Quorn) etc
 
 *  we eat fungi - more specifically, the reproductive organs of the mycelium
 

@@ -5,7 +5,7 @@ title = "Patrick Stevens"
 theme = "anatole"
 buildFuture = false
 enableEmoji = true
-paginate = 20
+pagination.pagerSize = 20
 
 [params]
 profilePicture = "/images/AboutMe/profile"
