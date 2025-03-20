@@ -42,14 +42,13 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
-*   A Fire Upon The Deep, by Vernor Vinge
+*   High Output Management, by Andy Grove
 
 # Bought and ready to read
 
 *   The Attention Merchants, by Tim Wu
 *   American Gods, by Neil Gaiman
 *   84, Charing Cross Road, by Helene Hanff
-*   High Output Management, by Andy Grove
 
 # To read
 
@@ -75,6 +74,10 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   The Diamond Age (A Young Lady's Illustrated Primer), by Neal Stephenson. After so long having the Primer in my vocabulary without having read the source of the meme, I finally did it when encountering Andy Matuschak's [Exorcising Us of the Primer](https://andymatuschak.org/primer/) and decided that actually reading the book was a prerequisite. Good book, maybe 7/10. Loved the presentation of how globalised societies can factor into tribes; loved the central idea of a device for rapidly teaching a child to be a fully rounded adult, and the periodic demonstrations that Nell is learning real skills in the real world thanks to her study. Slightly perturbed by the strange sex cult that appears to be obligatory in this kind of book. I'm excited to receive my [Daylight Computer](https://daylightcomputer.com/) because I hope it (plus [Claude](https://claude.ai)) can be some shadow of the Primer, although I've actually had some trouble finding a prompt that has Claude come close to enacting the Primer.
+*   We Could Be So Good, by Cat Sebastian. Heartwarming and cute! I've never actually read anything that explored this period of gay history, and it was very gripping.
+*   A Fire Upon The Deep, by Vernor Vinge. Really enjoyed this. Lots of little throwaway bits that just stayed with me ("of course our culture has spent vast amounts of leisure time working out the shortest route to bootstrapping Civilisation on a new planet", the Tines' physical construction, the idea that some cultures are impossible in some regimes of physics).
+*   In Praise of Shadows, by Jun'ichirō Tanizaki. Obviously heavily romanticised, but I enjoyed this a lot. (In fact I have recently been using an audiobook of this, narrated by David Rintoul, to fall asleep to; his voice and the content are both great for that.) Some of this is actually rather sad: an old man, seeing a Western future overtake the culture of which he is a part. The aesthetic pictures his words paint are often beautiful.
 *   Slaughterhouse Five, by Kurt Vonnegut. Indeed pretty depressing! I actually found this quite gripping, like you were really getting to know the protagonist, which I wasn't expecting. Felt like it did a good job of portraying a broken numbed soldier.
 *   Accelerando, by Charles Stross. Weird book, which I guess is the point. I had to struggle through the first few decades, because I found the style very offputting. (Even later, the gratuitous use of jargon like "ackles": I know what an [ACL](https://en.wikipedia.org/wiki/Access-control_list) is, and perhaps such words will indeed be common in the future, but it really felt like the author was "just showing off" some basic computing knowledge.) The general idea was pretty cool, though!
 *   Red Side Story, by Jasper Fforde, the second in the Shades of Grey series. I'm afraid I didn't enjoy this as much as the first book. There's a bunch of gripping worldbuilding here, but the first book was full of endearing naïvité from all characters, and this one was more "serious characters who happen to be in a whimsical setting".
@@ -101,7 +104,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 *   The SRE handbook, by the Google Site Reliability Engineering team. Super interesting. A bunch of this stuff is slowly seeping into how I think about software, with the main obvious effect on my work being that I am now much more strongly inclined to notice when I'm doing a task that could in principle be automated. However, if you're not Google, some of this stuff is probably not aimed at you; they have unique problems. I think this is worth reading for any software engineer.
 *   Leadership Is Language, by David Marquet (sequel to Turn The Ship Around, discussed above). Writing this review some time after reading the book, I don't actually retain anything specific from it, but I have certainly cargo-culted some of what I know was in it - e.g. "the way you phrase things can have a strong effect on the responses you get, so think about what you're implicitly telling people when you choose to phrase something a particular way". I suspect this was worth reading.
 *   The Elephant In The Brain, by Robin Hanson. This is one of those books that colours everything you think about afterwards. The premise is that all aspects of humans can be explained, and more specifically that disparate things like art and modern medicine are in large part about social signalling. Very mind-expanding, very cynical-economist. Recommended.
-*   The Making Of The Atomic Bomb, by Richard Rhodes (non-fiction, about what it says on the tin). Absolutely brilliant book. Strong layman's introduction to the nuclear physics relevant to building the bomb, and plenty of humanising stories. I was not expecting to read so many pages of _Mein Kampf_ quoted in this book (I think most readers probably accept the "Hitler evil" premise). There was a chapter devoted to eyewitness accounts of the destruction of Hiroshima, which was literally sickening to read. Highly recommended.
+*   The Making Of The Atomic Bomb, by Richard Rhodes (non-fiction, about what it says on the tin). Absolutely brilliant book. Strong layman's introduction to the nuclear physics relevant to building the bomb, and plenty of humanising stories. I was not expecting to read so many pages of _Mein Kampf_ quoted in this book (I think most readers probably already accept the "Hitler evil" premise without pages of explanation). There was a chapter devoted to eyewitness accounts of the destruction of Hiroshima, which was literally sickening to read. Highly recommended.
 *   If on a winter's night a traveller, by Italo Calvino. I couldn't really put this down, but I also wouldn't describe it as "gripping". There are some lovely vignettes in here, and many of the stories I'd love to read more of. Recommended.
 *   Infinite Jest, by David Foster Wallace. This was an infuriating book. It's so, so long, and it's so nearly excellent throughout, but honestly I got to the end and thought it wasn't worth the time I'd put into it. Some lovely bits of wordplay, a fairly good plot, excellent characterisation; if it were half the length this would be a snap recommendation.
 *   To Be Taught If Fortunate, by Becky Chambers. Basically four vignettes about extrasolar worlds, each very different. Its core premise is rather different from any sci-fi I have ever read before, and the whole book is gentle.
