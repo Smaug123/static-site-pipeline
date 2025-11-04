@@ -86,7 +86,6 @@
       };
     in {
       packages = flake-utils.lib.flattenTree {
-        gitAndTools = pkgs.gitAndTools;
         default = website;
       };
       checks = {

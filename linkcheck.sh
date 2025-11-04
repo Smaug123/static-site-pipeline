@@ -12,7 +12,7 @@ found=1
 next
 }
 found { print }
-' | grep 'file:' | cut -d '/' -f 3- | grep -v '#')
+' | grep 'file:' | grep -v 'localhost' | cut -d '/' -f 3- | grep -v '#')
 
   # hurr durrr accidentally quadratic
   for link in $links; do
