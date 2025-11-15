@@ -122,11 +122,11 @@
         "scripts": "scripts_2"
       },
       "locked": {
-        "lastModified": 1721842442,
-        "narHash": "sha256-bjvLR/KwHToz0/kRcZ8/MHXs3y4YCTtz3UUQ/D/AliA=",
+        "lastModified": 1763240594,
+        "narHash": "sha256-GRO60tGMtFmub9BpWh4CG/EUEpY0XJPRf1y4X+KmDac=",
         "ref": "refs/heads/main",
-        "rev": "cab3ccc58ec12af893c9ea6b87aac0dfeefa3752",
-        "revCount": 24,
+        "rev": "8c1d5b008b735bc08286cbdd5258cac048e21cd2",
+        "revCount": 25,
         "type": "git",
         "url": "file:/Users/patrick/Desktop/website/static-site-images"
       },
@@ -188,11 +188,11 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1762275345,
-        "narHash": "sha256-sR4ODD2IuO3pkIOU5IEnNFddsg1/dX4Jl1nOurqhHHo=",
+        "lastModified": 1763238714,
+        "narHash": "sha256-+r4UusT4zwJIujKfXx/FiaBJtw8QY9D4hUp1S5VTk8E=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "9e207ca7aadebcb4d2a1f855bb907e11739aa193",
+        "rev": "e049d2c1ad1ada926897f929e9389d01a910167e",
         "type": "github"
       },
       "original": {
@@ -212,11 +212,11 @@
         "scripts": "scripts_3"
       },
       "locked": {
-        "lastModified": 1725713640,
-        "narHash": "sha256-JBTpmQn3Gg3scVUUyLuks1gX+EzkctD+ZN3CBsxXuwQ=",
+        "lastModified": 1763240505,
+        "narHash": "sha256-mgcN6lvXPzFp8533ub/T2N6G8ko6thlg6zbZqYaZHcQ=",
         "owner": "Smaug123",
         "repo": "static-site-pdfs",
-        "rev": "e7133d72e6fab800aa3fd91cab47b6bc6824a0ca",
+        "rev": "c54f99c0e029dfbf66cfe9620dbe29633a50fcb1",
         "type": "github"
       },
       "original": {
