@@ -47,7 +47,6 @@
       buildHugo = scripts.lib.createShellScript pkgs "hugo" ./docker/hugo/build.sh;
     in let
       katex-parts = pkgs.stdenv.mkDerivation {
-        __contentAddressed = true;
         pname = "katex";
         version = "0.1.0";
         src = katex.outputs.packages.${system}.default;
@@ -60,7 +59,6 @@
       };
     in let
       website = pkgs.stdenv.mkDerivation {
-        __contentAddressed = true;
         pname = "patrickstevens.co.uk";
         version = "0.1.0";
 
