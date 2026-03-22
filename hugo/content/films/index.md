@@ -7,7 +7,10 @@ layout: page
 
 This page holds a list of films I have watched, spoiler-free, starting from 9th January 2015.
 
+*  [Project Hail Mary](https://www.imdb.com/title/tt12042730/): Great film. Visually beautiful; tense where appropriate; I was absolutely surrounded by people crying. Strongly recommended; I saw this on the BFI IMAX screen, which I think was a good choice.
+
 *  [Dungeons and Dragons: Honour Among Thieves](https://www.imdb.com/title/tt2906216/): Really rather good! As they say, "Consider this fan serviced". Light-hearted, plenty of flashy callouts.
+
 *  [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/): This is one of my favourite films. In general I find Wes Anderson a bit hit-or-miss, but this film is sublime. Excellent characterisation, quick deadpan wit. Ralph Fiennes is just glorious here.
 
 *  [Argylle](https://www.imdb.com/title/tt15009428/): Sadly disappointing. This film was at least twice as long as it should have been. A good version would have been a short funny pastiche; what we actually got was a long boring film punctuated by moments of glorious whimsy.
