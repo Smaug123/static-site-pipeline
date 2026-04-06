@@ -40,47 +40,69 @@
     anki-decks,
     extra-content,
     scripts,
-  }:
-    flake-utils.lib.eachDefaultSystem (system: let
-      pkgs = nixpkgs.legacyPackages.${system};
-    in let
-      buildHugo = scripts.lib.createShellScript pkgs "hugo" ./docker/hugo/build.sh;
-    in let
-      katex-parts = pkgs.stdenv.mkDerivation {
+  }: let
+    mkKatexParts = {
+      pkgs,
+      buildSystem ? pkgs.stdenv.buildPlatform.system,
+      src ? katex.outputs.packages.${buildSystem}.default,
+    }: let
+      buildPkgs = pkgs.buildPackages or pkgs;
+    in
+      pkgs.stdenvNoCC.mkDerivation {
         pname = "katex";
         version = "0.1.0";
-        src = katex.outputs.packages.${system}.default;
+        inherit src;
 
         installPhase = ''
           mkdir "$out"
           cp -r . "$out/dist"
         '';
       };
-    in let
-      website = pkgs.stdenv.mkDerivation {
+    mkWebsite = {
+      pkgs,
+      buildSystem ? pkgs.stdenv.buildPlatform.system,
+      extraContent ? extra-content,
+      imagesPackage ? images.packages.${buildSystem}.default,
+      pdfsPackage ? pdfs.packages.${buildSystem}.default,
+      ankiDecksPackage ? anki-decks.packages.${buildSystem}.default,
+      katexParts ? mkKatexParts {
+        inherit pkgs buildSystem;
+      },
+    }: let
+      buildPkgs = pkgs.buildPackages or pkgs;
+      buildHugo = scripts.lib.createShellScript buildPkgs "hugo" ./docker/hugo/build.sh;
+      websiteBuilder = scripts.lib.createShellScript buildPkgs "all" ./build/all.sh;
+    in
+      pkgs.stdenvNoCC.mkDerivation {
         pname = "patrickstevens.co.uk";
         version = "0.1.0";
 
         src = ./hugo;
 
-        buildInputs = [
-          pkgs.hugo
-          pkgs.html-tidy
+        nativeBuildInputs = [
+          buildPkgs.bash
+          buildPkgs.hugo
+          buildPkgs.html-tidy
         ];
 
         buildPhase = ''
-          ${scripts.lib.createShellScript pkgs "all" ./build/all.sh}/run.sh "${pdfs.packages.${system}.default}" "${images.packages.${system}.default}" "${anki-decks.packages.${system}.default}" "${buildHugo}" "${katex-parts}" "${extra-content}"
+          ${websiteBuilder}/run.sh "${pdfsPackage}" "${imagesPackage}" "${ankiDecksPackage}" "${buildHugo}" "${katexParts}" "${extraContent}"
         '';
 
         checkPhase = ''
           echo "Linting HTML."
-          ${pkgs.html-tidy}/bin/tidy
+          ${buildPkgs.html-tidy}/bin/tidy
         '';
 
         installPhase = ''
           mv output $out
         '';
       };
+  in
+    flake-utils.lib.eachDefaultSystem (system: let
+      pkgs = nixpkgs.legacyPackages.${system};
+      buildPkgs = pkgs.buildPackages or pkgs;
+      website = mkWebsite {inherit pkgs;};
     in {
       packages = flake-utils.lib.flattenTree {
         default = website;
@@ -107,9 +129,14 @@
           dontBuild = true;
           doCheck = true;
           checkPhase = ''
-            ${pkgs.bash}/bin/bash ${scripts.lib.createShellScript pkgs "linkcheck" ./linkcheck.sh}/run.sh ${pkgs.lynx}/bin/lynx
+            ${buildPkgs.bash}/bin/bash ${scripts.lib.createShellScript buildPkgs "linkcheck" ./linkcheck.sh}/run.sh ${buildPkgs.lynx}/bin/lynx
           '';
         };
       };
-    });
+    })
+    // {
+      lib = {
+        inherit mkKatexParts mkWebsite;
+      };
+    };
 }
