@@ -53,8 +53,7 @@
 
         installPhase = ''
           mkdir "$out"
-          ls -la .
-          cp -r ./libexec/katex/dist "$out/dist"
+          cp -r . "$out/dist"
         '';
       };
     in let

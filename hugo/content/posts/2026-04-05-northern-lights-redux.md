@@ -73,7 +73,7 @@ Then BICEP DAY and sauna.
 * Plane home via Oslo, including jogging across the full length of Oslo airport to make a 55min transfer
 * Arrived home 2230 BST
 
-{{< foldergallery src="images/galleries/Tromso2024/8-PlaneHome" >}}
+{{< foldergallery src="images/galleries/Tromso2026/8-PlaneHome" >}}
 
 # Stats
 
