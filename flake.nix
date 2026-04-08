@@ -65,9 +65,10 @@
       imagesPackage ? images.packages.${buildSystem}.default,
       pdfsPackage ? pdfs.packages.${buildSystem}.default,
       ankiDecksPackage ? anki-decks.packages.${buildSystem}.default,
-      katexParts ? mkKatexParts {
-        inherit pkgs buildSystem;
-      },
+      katexParts ?
+        mkKatexParts {
+          inherit pkgs buildSystem;
+        },
     }: let
       buildPkgs = pkgs.buildPackages or pkgs;
       buildHugo = scripts.lib.createShellScript buildPkgs "hugo" ./docker/hugo/build.sh;
