@@ -1,7 +1,7 @@
 ---
-lastmod: "2026-04-18T09:41:00.0000000+00:00"
+lastmod: "2026-04-18T09:41:00.0000000+01:00"
 author: patrick
-date: "2026-04-18T09:41:00.0000000+00:00"
+date: "2026-04-18T09:41:00.0000000+01:00"
 title: Claude knows who you are
 summary: "Claude Opus 4.7 is solidly superhuman at stylometric identification of authors."
 ---
