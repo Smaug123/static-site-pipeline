@@ -47,7 +47,6 @@
     "extra-content": {
       "flake": false,
       "locked": {
-        "lastModified": 1694359899,
         "narHash": "sha256-zqso6yrZLMvhEWBrffXMTvirHeX/CWy0HmfCpC+FFXE=",
         "path": "/Users/patrick/Desktop/website/extra-site-content",
         "type": "path"
@@ -188,11 +187,11 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1775456833,
-        "narHash": "sha256-UPTA8QB7h0hf64CQoLUXp+vNRy5CUBuVaTjr5fwK8Pg=",
+        "lastModified": 1780472672,
+        "narHash": "sha256-h/vTggWh65OFO7tVj+MFemAOGCn6c22lH+K0BXxcZcA=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "e6c8eff62fae8fd177be483d62e370d6806096c7",
+        "rev": "b231e899933ba9bc9d6852511768da9ec64ce56d",
         "type": "github"
       },
       "original": {
