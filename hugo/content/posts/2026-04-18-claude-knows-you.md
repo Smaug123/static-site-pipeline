@@ -1,5 +1,5 @@
 ---
-lastmod: "2026-04-18T09:41:00.0000000+01:00"
+lastmod: "2026-06-04T07:41:00.0000000+01:00"
 author: patrick
 date: "2026-04-18T09:41:00.0000000+01:00"
 title: Claude knows who you are
@@ -11,6 +11,8 @@ summary: "Claude Opus 4.7 is solidly superhuman at stylometric identification of
 I replicated the experiment myself, which is *absolutely terrifying* given that I am one of the most minor Internet personalities who has actually written stuff on the Internet.
 
 Claude professes not to know who I am, but reliably identifies me from my writing.
+
+("Reliably": so far, this experiment appears to have a ~50% hit rate when people who aren't me perform it to try and elicit the response "You are Patrick Stevens". I have personally seen it fail maybe once in about ten trials.)
 
 Methodology: clear your custom instructions in claude.ai, and set your name to Unknown Visitor.
 Enter incognito chat mode with Claude.
@@ -44,3 +46,5 @@ This is a pure stylometric exercise: the framing and the two paragraphs of text 
 (I've been unable to elicit Claude identifying me from *just* the framing; either its truesight is not *that* perfect, or I'm simply failing to prompt it.)
 
 Internet anonymity is dead!
+
+*Update 2026-06*: Claude Opus 4.8, on the other hand, appears to be once again [unable to do this](https://www.lesswrong.com/posts/T5aWBLDdkqPEzDhjZ/claude-doesn-t-know-who-you-are).
