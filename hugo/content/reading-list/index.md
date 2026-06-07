@@ -42,7 +42,6 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Currently reading
 
-*   Anna Karenina
 *   High Output Management, by Andy Grove
 
 # Bought and ready to read
@@ -75,6 +74,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   Anna Karenina, by Tolstoy. This was great! Its opening line is famous, and then the whole book is just an extended demonstration of it. Everyone's so miserable, for such different reasons. The whole thing is like Tolstoy is just trying to ensure every character's life is hell. Kitty's childbirth scene near the end was powerful; Anna's descent into being an awful person and then into actual madness was gripping if rather abrupt. (Can a 350,000 word book do anything abruptly?) Lots of wonderful bits of arch sarcasm.
 *   See You at the Finish Line, by Zac Hammett. I think it was overdetermined that I'd love this book: it's set in Cambridge, and the two main characters are the scrawny nerd and the big hot himbo ([inside you there are two wolves](https://en.wikipedia.org/wiki/Two_Wolves)…). Trashy romance, obviously, but has actually stayed with me.
 *   There Is No Antimemetics Division, by qntm. I love everything qntm writes; I think this is his first published book. Strangely divorced from the [SCP Wiki](https://scp-wiki.wikidot.com) where it originated; you can kind of feel a big Foundation-shaped hole in it. I've never seen anything like this concept before; it's a super cool exploration.
 *   [If Anyone Builds It, Everyone Dies](https://ifanyonebuildsit.com/), by Eliezer Yudkowsky and Nate Soares. Obviously I'm already deeply familiar with the arguments in this book, but I had to read it anyway. I was surprised, though, by the fact that the last chapter made me cry. (In retrospect, Yudkowsky is perfectly capable of doing this, and I should have predicted it; he did it several times in Planecrash, for example, as well as in his short story [Kindness to Kin](https://www.reddit.com/r/HFY/comments/lom9cb/kindness_to_kin/).)
