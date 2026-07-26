@@ -46,7 +46,9 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Bought and ready to read
 
-*   The Attention Merchants, by Tim Wu
+*   [Swann's Way](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time), by Proust. Really looking forward to this one: the Moncrieff translation narrated by Neville James is enchanting but I can't get more than 15mins into it without falling asleep.
+*   Cold Comfort Farm, by Stella Gibbons
+*   Middlemarch, by George Eliot
 *   American Gods, by Neil Gaiman
 *   84, Charing Cross Road, by Helene Hanff
 
@@ -74,6 +76,7 @@ This page holds a list of the books I am reading, and a list of books I have rea
 
 # Have read
 
+*   The Master and Margarita, by Mikhail Bulgakov. Enjoyed this, although I feel like you can get more concentrated doses of most of its main attractions from other books. (_Jonathan Strange and Mr Norrel_ has more of the lovely magical-realism parts; _If on a winter's night a traveller_ or _Cloud Atlas_ do more of the interplay of different stories.) The two-thousand-year-old subplot was really gripping, and the modern-day magic was funny and whimsical. I did have my usual Russian difficulty of all the names being a bit unfamiliar and so it being hard to keep track of the various characters.
 *   Anna Karenina, by Tolstoy. This was great! Its opening line is famous, and then the whole book is just an extended demonstration of it. Everyone's so miserable, for such different reasons. The whole thing is like Tolstoy is just trying to ensure every character's life is hell. Kitty's childbirth scene near the end was powerful; Anna's descent into being an awful person and then into actual madness was gripping if rather abrupt. (Can a 350,000 word book do anything abruptly?) Lots of wonderful bits of arch sarcasm.
 *   See You at the Finish Line, by Zac Hammett. I think it was overdetermined that I'd love this book: it's set in Cambridge, and the two main characters are the scrawny nerd and the big hot himbo ([inside you there are two wolves](https://en.wikipedia.org/wiki/Two_Wolves)…). Trashy romance, obviously, but has actually stayed with me.
 *   There Is No Antimemetics Division, by qntm. I love everything qntm writes; I think this is his first published book. Strangely divorced from the [SCP Wiki](https://scp-wiki.wikidot.com) where it originated; you can kind of feel a big Foundation-shaped hole in it. I've never seen anything like this concept before; it's a super cool exploration.
