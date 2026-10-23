@@ -79,11 +79,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1731533236,
-        "narHash": "sha256-l0KFg5HjrsfsO/JpG+r7fRrqm12kzFHyUHqHCVpMMbI=",
+        "lastModified": 1791914995,
+        "narHash": "sha256-Zf/xfQEAasnwnmEfHqW/4hjDE/s44yn2hD4RuVIZRjA=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "11707dc2f618dd54ca8739b309ec4fc024de578b",
+        "rev": "b7a79d3fea1e214f6d668d521cecec0c01e26544",
         "type": "github"
       },
       "original": {
@@ -121,11 +121,11 @@
         "scripts": "scripts_2"
       },
       "locked": {
-        "lastModified": 1775669675,
-        "narHash": "sha256-9Ik4x4H4OYmPfD8ZHWorATmykQpjLN5IdCLS+aTD1H8=",
+        "lastModified": 1792751452,
+        "narHash": "sha256-DI3Ba6JF5fICjleJSexBDCQIcNV0n59/oa8enngWQew=",
         "ref": "refs/heads/main",
-        "rev": "324a2a4f15a03ec50aa7e706969eda1be774f452",
-        "revCount": 27,
+        "rev": "f796a7c9fab89d2c0eedd5d317867a67c909d583",
+        "revCount": 29,
         "type": "git",
         "url": "file:/Users/patrick/Desktop/website/static-site-images"
       },
@@ -187,11 +187,11 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1780472672,
-        "narHash": "sha256-h/vTggWh65OFO7tVj+MFemAOGCn6c22lH+K0BXxcZcA=",
+        "lastModified": 1792750317,
+        "narHash": "sha256-RKYmbfvjeN3yDC2iHR4ZV6lFHzDrAQ4TTbox24ryCm0=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b231e899933ba9bc9d6852511768da9ec64ce56d",
+        "rev": "392c59dc2b878a6d8d19139f1b7bbc319ec8d1cd",
         "type": "github"
       },
       "original": {
@@ -211,11 +211,11 @@
         "scripts": "scripts_3"
       },
       "locked": {
-        "lastModified": 1763240505,
-        "narHash": "sha256-mgcN6lvXPzFp8533ub/T2N6G8ko6thlg6zbZqYaZHcQ=",
+        "lastModified": 1792741463,
+        "narHash": "sha256-ySjOUqkY+FuQf4FRIHTkEbEDuEBa0KVGIyx3z5uc52E=",
         "owner": "Smaug123",
         "repo": "static-site-pdfs",
-        "rev": "c54f99c0e029dfbf66cfe9620dbe29633a50fcb1",
+        "rev": "2b0476163d1f9c45b12a2f0adec5f4f97d55ce20",
         "type": "github"
       },
       "original": {
