@@ -10,29 +10,16 @@
     <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerify }}">
     {{- end -}}
 
-    <!-- CSS -->
-    {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet"
-          href="{{ $style.Permalink }}"
-          integrity="{{ $style.Data.Integrity }}"
-          crossorigin="anonymous"
-          type="text/css">
+    <!-- CSS: inlined rather than linked, so that no stylesheet request blocks first render. -->
+    {{ $style := resources.Get "css/style.css" | resources.Minify }}
+    <style>{{ $style.Content | safeCSS }}</style>
     {{ if .Params.sidenotes }}
-    {{ $style := resources.Get "css/sidenote.css" | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet"
-          href="{{ $style.Permalink }}"
-          integrity="{{ $style.Data.Integrity }}"
-          crossorigin="anonymous"
-          type="text/css">
+    {{ $sidenote := resources.Get "css/sidenote.css" | resources.Minify }}
+    <style>{{ $sidenote.Content | safeCSS }}</style>
     {{ end }}
-    {{- $css := "" -}}
     {{- range .Site.Params.customCss -}}
-    {{ $css := resources.Get . | fingerprint }}
-    <link rel="stylesheet"
-          href="{{ $css.Permalink }}"
-          integrity="{{ $css.Data.Integrity }}"
-          crossorigin="anonymous"
-          type="text/css">
+    {{ $css := resources.Get . | resources.Minify }}
+    <style>{{ $css.Content | safeCSS }}</style>
     {{- end -}}
     <!-- Desired parts of fontawesome have been extracted to fontawesome.css
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
@@ -50,11 +37,10 @@
     {{ end -}}
 
     <!-- JavaScript -->
-    {{ $anatole := resources.Get "js/anatole-header.js" }}
-    {{ $secureJS := $anatole |  resources.Minify | resources.Fingerprint }}
-    <script src="{{ $secureJS.Permalink }}"
-            integrity="{{ $secureJS.Data.Integrity }}"
-            crossorigin="anonymous"></script>
+    <!-- Inlined, and deliberately synchronous: it sets data-theme before first paint,
+         so deferring it would flash the light theme at dark-mode users. -->
+    {{ $anatole := resources.Get "js/anatole-header.js" | resources.Minify }}
+    <script>{{ $anatole.Content | safeJS }}</script>
 
     {{- $js := "" -}}
     {{- range .Site.Params.customJs -}}
